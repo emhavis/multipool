@@ -1,2 +1,2 @@
-# multipool
-AI Model for multipool
+# ai-project
+AI Project for checkmedsos
