@@ -24,6 +24,6 @@ else
   echo $$ > $pid_file
 fi
 
-/home/haviz/cekmedsos/bin/jupyter-nbconvert --ExecutePreprocessor.timeout=21600 --to notebook --execute /home/haviz/ai-project/tweet-grouping/tweet-grouping-cmd.ipynb
+/home/haviz/cekmedsos/bin/jupyter-nbconvert --ExecutePreprocessor.timeout=21600 --to notebook --execute /home/haviz/multipool/tweet-grouping/tweet-grouping-cmd.ipynb
 # clean up file after we're done
 rm $pid_file

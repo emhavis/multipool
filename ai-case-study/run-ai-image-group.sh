@@ -24,6 +24,6 @@ else
   echo $$ > $pid_file
 fi
 
-/home/qudoco/jupyter/jup_notebook/bin/jupyter-nbconvert --ExecutePreprocessor.timeout=21600 --to notebook --execute /home/qudoco/jupyter/ai-project/ai-case-study/ai-image-group.ipynb
+/home/haviz/cekmedsos/bin/jupyter-nbconvert --ExecutePreprocessor.timeout=21600 --to notebook --execute /home/haviz/multipool/ai-case-study/ai-image-group.ipynb
 # clean up file after we're done
 rm $pid_file
