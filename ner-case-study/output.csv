@@ -1,0 +1,81 @@
+,productName,type,confidenceLevel,explanation
+0,ANALISA SAMPEL RBD PALM STEARIN,Service,0.95,This is a service for analyzing palm stearin sample.
+1,Jasa Uji Laboratorium KJU No XX XX,Service,0.95,This is a laboratory testing service with code KJU-XX-XX.
+2,Palm Kernel Expeller PKE,Product,0.95,This is a palm kernel expeller product.
+3,CPO 2999998 MT,Product,0.95,This is Crude Palm Oil with a quantity of 2999998 Metric Tons.
+4,CPO 3149193 MT,Product,0.95,This is Crude Palm Oil with a quantity of 3149193 Metric Tons.
+5,KALIBRASI SOUNDING TAPE CPO,Service,0.9,This is a service for calibration and sounding tape of CPO.
+6,Loading Survey of CPKO 1999887 MT and CPO 2503809 MT,Service,0.9,This is a loading survey service for CPKO (2503809 MT) and CPO (1999887 MT).
+7,Loading Survey of CPO 2999998 MT,Service,0.9,This is a loading survey service for CPO (2999998 MT).
+8,Loading Survey of CPO 3000301 MT,Service,0.9,This is a loading survey service for CPO (3000301 MT).
+9,POSITIONERP520175209481,Product,0.9,This is a product name for Positioner.
+10,MANUFACTURER FLOWSERVE,Company,0.9,This is the manufacturer company name of Flowserve.
+11,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1996 13269963 KG,Product,0.9,This is a product of Fresh Fruit Oil Palm from year of planting 1996 with weight 13269963 kg
+12,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1996 13609592 KG,Product,0.9,This is a product of Fresh Fruit Oil Palm from year of planting 1996 with weight 13609592 kg
+13,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1997 7184896 KG,Product,0.9,This is a product of Fresh Fruit Oil Palm from year of planting 1997 with weight 7184896 kg
+14,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1997 7637226 KG,Product,0.9,This is a product of Fresh Fruit Oil Palm from year of planting 1997 with weight 7637226 kg
+15,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1997 8113557 KG,Product,0.9,This is a product of Fresh Fruit Oil Palm from year of planting 1997 with weight 8113557 kg
+16,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1997 8628950 KG,Product,0.9,This is a product of Fresh Fruit Oil Palm with harvest year 1997 and weight 8628950 kg
+17,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1997 8861121 KG,Product,0.9,This is a product of Fresh Fruit Oil Palm with harvest year 1997 and weight 8861121 kg
+18,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1998 1458681 KG,Product,0.9,This is a product of Fresh Fruit Oil Palm with harvest year 1998 and weight 1458681 kg
+19,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1999 1700094 KG,Product,0.9,This is a product of Fresh Fruit Oil Palm with harvest year 1999 and weight 1700094 kg
+20,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1999 1990593 KG,Product,0.9,This is a product of Fresh Fruit Oil Palm with harvest year 1999 and weight 1990593 kg
+21,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1999 2367230 KG,Product,0.9,This is a product of Fresh Fruit Oil Palm
+22,Termin 4 7617 Pekerjaan Design and Build Gas Holder Pabrik Kelapa Sawit PKS LIBO,Service,0.8,This is a service for design and build of gas holder in palm oil mill
+23,Uang Muka II Crude Palm Oil CPO,Service,0.9,This is a service for crude palm oil advance payment
+24,5 Bl Blanko Sounding Palm Kernel SCPR 0010662610,Service,0.9,This is a sounding service for palm kernel
+25,PAINTING JOTUN HARDTOP XP WARNA CPO OIL RAL 17 LTR,Product,0.8,This is a product of Jotun Hardtop XP palm oil paint in RAL color
+26,MASTER KEY GEMBOK TRUK CPO,Service,0.8,This is a master key for truck CPO.
+27,10 Bl Blanko Analisa Minyak Sawit Oil Loss SCPR 0010810374,Service,0.9,This is service for 10 Blanko Oil Palm Oil Loss analysis.
+28,MASTER KEY GEMBOK TRUK CPO,Service,0.8,This is a master key for truck CPO.
+29,20 Bl Blanko Bast Sample Despatch CPO SCPR 0010658424,Service,0.9,This is service for bast sample despatch CPO.
+30,BLANKO SOUNDING PALM KERNEL,Service,0.9,This is a sounding service for palm kernel.
+31,Lebih Angkut Palm Kernel,Service,0.9,This is a service for transporting palm kernel.
+32,CPO Crude Palm Oil,Product,0.95,This is a raw material of crude palm oil.
+33,Penjualan Crude Palm Oil,Service,0.9,This is a service for selling crude palm oil.
+34,Tanaman Kelapa Sawit,Product,0.98,This is a plantation of oil palm.
+35,CRUDE PALM OIL CPO HS CODE 15111000,Product,0.95,This is a raw material of Palm Oil
+36,Palm Kernel,Product,0.95,"This is a product derived from palm oil, specifically the kernel"
+37,Pelunasan freight inti sawit in basg PangkalBalamLampung,Service,0.95,This is a service for freight payment of palm oil in the area of Pangkal Balam Lampung
+38,PK Palm Kernel,Product,0.95,"This is a product, likely a package or batch of palm kernel"
+39,Pelunasan freight inti sawit curah Pangkal BalamLampung,Service,0.95,This is a service for freight payment of palm oil in the area of Pangkal Balam Lampung (in liquid state)
+40,Pelunasan freight inti sawit curah KendawanganLampung,Service,0.9,This is a payment for freight of palm oil
+41,PALM KERNEL RSPOMB,Product,0.9,This is Palm Kernel marked as RSPO (Roundtable on Sustainable Palm Oil)
+42,ONGKOS ANGKUT PALM KERNEL,Service,0.9,This is a service for transporting palm kernel
+43,CRUDE PALM OIL,Product,0.95,"This is crude palm oil, a raw material in the palm oil industry"
+44,Ongkos angkut CPO,Service,0.9,This is a service for transport cost of Crude Palm Oil.
+45,FP 100 Freight Palm Kernel,Service,0.9,This is a service for freight cost of Palm Kernel.
+46,TBS PER 1630 JUN 2021 TT 2012,Product,0.9,"This is a Product of Fresh Fruit of Oil Palm, harvested on June 2021"
+47,CPO Crude Palm Oil,Product,0.9,This is a raw material of Crude Palm Oil.
+48,Palm Kernel,Product,0.9,This is a product of Palm Kernel.
+49,Pembayaran Uang Muka CPO (Crude Palm Oil),Service,0.95,This is a payment for Crude Palm Oil service.
+50,Palm Kernel,Product,0.98,This is a palm kernel product.
+51,CRUDE PALM OIL,Product,1.0,This is crude palm oil product.
+52,PK (Palm Kernel) Kontrak 022PKIMTLILXI2021,Service,0.9,This is palm kernel contract service.
+53,CRUDE PALM OIL CPO,Product,0.95,This is a product of Crude Palm Oil
+54,Pembayaran Uang Muka PKPalm Kernel NoKontrak 077XXXXXX20XX,Service,0.8,This is a payment service for Palm Kernel with contract number
+55,Pembayaran Uang Muka PKPalm Kernel NoKontrak 064XXCPKXX20XX,Service,0.8,This is a payment service for Palm Kernel with contract number
+56,Ongkos Angkut TBS DIV 7,Service,0.9,This is a service for transportation cost of Fresh Fruit of Divison 7
+57,PENJUALAN CRUDE PALM OIL (CPO),Product,0.95,This is the sale of Crude Palm Oil
+58,CRUDE PALM OIL CPO 4910 Kg Kontrak 584,Product,0.95,This is the product name and quantity of Crude Palm Oil
+59,PENJUALAN PALM KERNEL (PK),Product,0.95,This is the sale of Palm Kernel
+60,Palm Kernel PK 4964 Kg Kontrak 281,Product,0.95,This is the product name and quantity of Palm Kernel
+61,Palm Kernel PK 5000 Kg Kontrak 255,Product,0.95,This is a product of Palm Kernel
+62,CRUDE PALM OIL HS CODE 15111000,Product,0.9,This is a Crude Palm Oil product
+63,PKPalm Kernel NoKontrak 067,Product,0.9,This is a product of Palm Kernel No Kontrak 067
+64,PENJUALAN PALM KERNEL,Service,0.85,This is a service for the sale of Palm Kernel
+65,CPO,Product,0.9,This is a product of Crude Palm Oil
+66,Minyak Sawit CPO,Product,0.95,This is a product of Crude Palm Oil
+67,PENJUALAN 5690 KG CPO,Service,0.8,This is a service for the sale of 5690 kg Crude Palm Oil
+68,TBS PER 1631 MEI 2021,Product,0.9,This is a product of Fresh Fruit of Palm Oil
+69,CPO NO C02CASSTNXIXX,Product,0.85,This is a product with the code C02CASSTNXIXX of Crude Palm Oil
+70,Ongkos Angkut TBS DIV 4,Service,0.7,This is a service for the transportation cost of Fresh Fruit of Palm Oil in Division 4
+71,CRUDE PALM OIL,Product,0.95,This is a raw material of palm oil.
+72,CRUDE PALM OIL FFA 5 max MI 05 max,Product,0.9,This is a product with the name Crude Palm Oil FFA having max content of 5%.
+73,PENJUALAN 7100 KG CPO,Service,0.8,This text is in Bahasa Indonesia and can be translated to 'Sales of 7100 kg CPO'. It represents a sales or trading service for Crude Palm Oil.
+74,Palm Kernel,Product,0.9,This is a product representing palm kernel.
+75,Palm Kernel Inti Sawit,Product,0.95,This is a Product of Fresh Palm Kernel.
+76,CPO (Crude Palm Oil),Product,0.95,This is a product of Crude Palm Oil
+77,CPO KONTRAK JUAL BELI NOC02XX,Service,0.85,This is a contract sale service for Crude Palm Oil
+78,Palm Kernel,Product,0.95,This is a product of Palm Kernel
+79,TBS (Tandan Buah Segar) Periode 07 Maret 2021,Service,0.9,"This is a service for Fresh Fruit Oil Palm in the period of March 7, 2021"

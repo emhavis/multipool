@@ -1,0 +1,99 @@
+{"type": "Product", "confidenceLevel": 0.8, "explanation": "RBD palm stearin is a tangible good derived from palm oil.", "quantity": 100}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel expeller is a product derived from palm oil.", "quantity": 1}
+{"type": "Service", "confidenceLevel": 0.8, "explanation": "The text mentions the inspection of palm oil and its derivatives, which suggests a service related to the production, distribution, marketing, or utilization of palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "The text mentions the quantity of CPO (7999998 MT) and the location where it was discharged (Kabil Batam), which suggests that it is a tangible good derived from palm oil.", "quantity": 7999998}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "CPO is a product derived from palm oil.", "quantity": 1}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Kalibrassi is a product that refers to the tangible goods derived from palm oil.", "quantity": 1}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "The text mentions the loading of two types of palm oil products (CPKO and CPO) at Dumai, which suggests that these are tangible goods derived from palm oil.", "quantity": 2503809}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "The text mentions the loading of a shipment of CPO (crude palm oil) with a quantity of 998 MT (metric tons) at Dumai on a specific date.", "quantity": 998}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "The text mentions the loading of a product (CPO) at a specific location (Tayan) on a particular date (1920-10-2021), which indicates that it is a tangible good derived from palm oil.", "quantity": 3000}
+{"type": "Product", "confidenceLevel": 0.9, "explanation": "The product is a raw material derived from palm oil.", "quantity": 1000}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Pengiriman Kecambah Sawit refers to the transportation of palm oil products, which is a product derived from palm oil.", "quantity": 10}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel expeller is a product derived from palm oil.", "quantity": 1}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "The text mentions a product (SEWA ALAT BERAT ROAD GRADDER) that is derived from palm oil.", "quantity": 375000}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1994 refers to a quantity of raw material (KG) derived from palm oil.", "quantity": 1081230}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1994 refers to a quantity of palm oil products, indicating it is a product.", "quantity": 1190024}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1995 refers to a quantity of palm oil products produced or traded, which falls under the category of 'Product'.", "quantity": 4907412}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1995 refers to a quantity of palm oil products that were produced or traded in 1995.", "quantity": 5276210}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1995 refers to a quantity of palm oil products, indicating it is a product.", "quantity": 5701628}
+{"type": "Product", "confidenceLevel": 0.8, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1996 refers to a quantity of palm oil products, indicating it is a product.", "quantity": 12217767}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1996 refers to a product made from palm oil, specifically the quantity of 13269963 kg of fresh fruit bunches of oil palm (Elaeis guineensis) harvested in 1996.", "quantity": 13269963}
+{"type": "Product", "confidenceLevel": 0.8, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1996 refers to a quantity of palm oil products, which is a product derived from palm oil.", "quantity": 13269963}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1996 refers to a quantity of palm oil products, which is a product derived from palm oil.", "quantity": 13609592}
+{"type": "Product", "confidenceLevel": 0.95, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1997 refers to a quantity of palm oil products produced or traded, therefore it is classified as a product.", "quantity": 7184896}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1997 refers to a quantity of palm oil products, which is a tangible good derived from palm oil.", "quantity": 7637226}
+{"type": "Product", "confidenceLevel": 0.9, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1997 8113557 KG is a product that refers to the tangible goods derived from palm oil.", "quantity": 8113557}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1997 refers to a quantity of palm oil products that were produced or traded in 1997.", "quantity": 8628950}
+{"type": "Product", "confidenceLevel": 0.95, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1997 8861121 KG is a product that refers to the tangible goods derived from palm oil.", "quantity": 8861121}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1998 refers to a quantity of palm oil products, which is a tangible good derived from palm oil, therefore it falls under the category of 'Product'.", "quantity": 1458681}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1999 refers to a quantity of palm oil products that were produced in 1999.", "quantity": 1700094}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1999 refers to a quantity of palm oil products produced or traded, which falls under the category of a product.", "quantity": 1990593}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1999 refers to a quantity of palm oil products produced or traded, therefore it is classified as a product.", "quantity": 2367230}
+{"type": "Product", "confidenceLevel": 0.95, "explanation": "PKS LIBO is a product that refers to the tangible goods derived from palm oil.", "quantity": 7617}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a raw material derived from palm oil and its derivatives.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel is a product derived from palm oil.", "quantity": "5"}
+{"type": "Product", "confidenceLevel": 0.95, "explanation": "Painting is a product that contains oil and other materials used for painting.", "quantity": 18}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Mast Key Gembock Truk Cpo is a product that contains palm oil or its derivatives, therefore it falls under the category of 'Product'.", "quantity": 1}
+{"type": "Product", "confidenceLevel": 0.95, "explanation": "Minyak sawit oil loss scpr is a product that contains palm oil derivatives and is used for various activities such as production, distribution, marketing, and utilization of palm oil products.", "quantity": 10}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "The term 'MASTER KEY' suggests that this is a key or set of keys related to palm oil production, distribution, marketing, or utilization.", "quantity": 1}
+{"type": "Product", "confidenceLevel": 0.9, "explanation": "Based on the text provided, this appears to be a product description for a shipment of crude palm oil (CPO). The reference number and quantity mentioned in the text suggest that it is a tangible good derived from palm oil.", "quantity": 20}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel is a raw material derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Minyak Kelapa Sawit CPO is a product derived from palm oil.", "quantity": 1}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm oil is a raw material derived from the fruit of the oil palm tree.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 0.8, "explanation": "The product is a tangible good derived from palm oil.", "quantity": "5000"}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "VITAMIN A PALMITATE is a product derived from palm oil.", "quantity": 17}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "The product is a raw material derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel is a raw material derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm oil kontrak is a product that refers to the tangible goods derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Tanaman Kelapa Sawit is a product that refers to the tangible goods derived from palm oil.", "quantity": 1}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a product derived from palm oil and is typically sold as a raw material for various industries.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 0.8, "explanation": "Lubang tanam Mekanis Sawit Div6 is a product that refers to the tangible goods derived from palm oil.", "quantity": 1234}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a product derived from the fruit of the oil palm tree and is typically sold as a raw material for various industries such as food, cosmetics, and biofuels.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel is a raw material derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Pelunasan is a product name that refers to the transportation of palm oil in Basg Pangkal Balam Lampung.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel is a raw material derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 0.8, "explanation": "Pelunasan is a product that refers to the tangible goods derived from palm oil.", "quantity": 1000}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Pelunasan is a product that refers to the tangible goods derived from palm oil.", "quantity": 1}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel is a product derived from palm oil.", "quantity": 1}
+{"type": "Product", "confidenceLevel": 0.8, "explanation": "The term 'ongkos angkut palm kernel' likely refers to a product that is derived from palm oil, such as palm kernel cake or crude palm oil.", "quantity": 100}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "The text mentions 'freight' and 'sawit', which are both related to the production or distribution of palm oil products.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a tangible good derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Ongkos angkut CPO refers to the transportation of crude palm oil (CPO), which is a raw material derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel is a product derived from palm oil.", "quantity": 100}
+{"type": "Product", "confidenceLevel": 0.95, "explanation": "The product is raw material or a tangible good derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Crude Palm Oil (CPO) is a raw material derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel is a raw material derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "The text mentions 'Uang Muka' which is a term commonly used in the palm oil industry to refer to advance payments made by buyers to sellers. This indicates that the product being referred to is a tangible good derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel is a raw material derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel is a raw material derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a tangible good derived from palm oil.", "quantity": 1.0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel is a product derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a tangible good derived from palm oil.", "quantity": 100}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "The text mentions 'Pembayaran Uang Muka' which is a financial transaction related to the production or distribution of palm oil products.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Penjualan crude palm oil refers to the sale of raw material derived from palm oil.", "quantity": 1000}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "The text mentions 'PKPalm Kernel' and 'no kontrak', which suggests that the product is a tangible good derived from palm oil.", "quantity": "20XX"}
+{"type": "Product", "confidenceLevel": 0.8, "explanation": "Ongkos Angkut TBS DIV 7 is a product that refers to the tangible goods derived from palm oil.", "quantity": 1}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "The text mentions the batch number and product code of a palm oil product, indicating that it is a tangible good derived from palm oil.", "quantity": 1}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "BIAYA HANDLING CPO refers to the handling and processing of crude palm oil (CPO), which is a raw material derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 0.95, "explanation": "Palm oil kontrak refers to a contract or agreement related to the production, distribution, marketing, or utilization of palm oil and its derivatives.", "quantity": 117}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "The text mentions 'penjualan' which means sale in Bahasa Indonesia, indicating that the product is a tangible good.", "quantity": 257}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a tangible good derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Penjualan crude palm oil refers to the sale of raw material derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Crude Palm Oil is a tangible good derived from palm oil.", "quantity": 4910}
+{"type": "Product", "confidenceLevel": 0.95, "explanation": "Palm kernel is a raw material derived from palm oil.", "quantity": 4964}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Crude Palm Oil is a tangible good derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Penjualan palm kernel refers to the sale of palm kernel products, such as palm kernel oil or palm kernel cake, which are derived from the fruit of the oil palm tree.", "quantity": 100}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel is a product derived from palm oil.", "quantity": 5000}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a tangible good derived from the fruit of the oil palm tree and is typically referred to as a raw material.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel is a product derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Penjualan palm kernel refers to the sale of palm kernel products, such as palm kernel oil, palm kernel cake, and other derivatives.", "quantity": 100}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Crude Palm Oil (CPO) is a product derived from the fruit of the oil palm tree.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Minyak Sawit CPO is a raw material derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "PENJUALAN is a Malay word that means sale or transaction. Since the text mentions the quantity of CPO (Crude Palm Oil) being sold, it falls under the category of a product.", "quantity": 5690}
+{"type": "Product", "confidenceLevel": 0.8, "explanation": "The product is raw material or a tangible good derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm oil and its derivatives are raw materials used in various industries such as food, cosmetics, and biofuels.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Ongkos Angkut is a company that provides transportation services for palm oil and its derivatives.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a tangible good derived from palm oil.", "quantity": 1.0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "PENJUALAN refers to the sale of a product, in this case, 7100 kg of crude palm oil (CPO).", "quantity": 7100}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel is a raw material derived from palm oil.", "quantity": 0}
+{"type": "Product", "confidenceLevel": 1.0, "explanation": "Palm kernel is a product derived from palm oil.", "quantity": 1}

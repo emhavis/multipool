@@ -1,0 +1,386 @@
+,productName,type,confidenceLevel,explanation
+0,ANALISA SAMPEL RBD PALM STEARIN,Service,1.0,This is a service for analyzing RBD Palm Stearin.
+1,Aflatoxin B1 Qty 1 Sampel Palm Kernel Expell,Service,1.0,This is a service for analyzing Aflatoxin B1 in Palm Kernel Expelled.
+2,Analisa Pengujian INSPEKSI MINYAK KELAPA SAWI,Service,1.0,This is a service for inspecting and testing Palm Oil.
+3,Discarging Survey of CPO 2999998 MT at Kabil B,Service,1.0,This is a service for conducting a discharging survey of CPO at Kabil B.
+4,Discarging Survey of CPO 3149193 MT at Kabil B,Service,1.0,This is a service for conducting a discharging survey of CPO at Kabil B.
+5,KALIBRASI SOUNDING TAPE CPO,Service,1.0,This is a service for calibrating and testing Sounding Tape on CPO.
+6,Loading Survey of CPO 2999998 MT at Dumai on 0,Service,1.0,This is a service for conducting a loading survey of CPO at Dumai on 0.
+7,Loading Survey of CPO 3000301 MT at Tayan on 1,Service,1.0,This is a service for conducting a loading survey of CPO at Tayan on 1.
+8,POSITIONERP520175209481 MANUFACTURERFLOWSERVE,Service,1.0,This is a service related to Positioner and Manufacturer Flowserve.
+9,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1999 1700094 KG,Product,1.0,This is a product of Fresh Fruit Oil Palm with the year of production 1999 and weight 1700094 kg.
+10,Pengiriman Kecambah Sawit,Service,0.8,This is a service for delivery of palm leaves.
+11,Residu Pesticide GMP PKE Qty 1 Sampel Palm K,Service,0.9,This is a service for testing a pesticide residue in palm.
+12,SEWA ALAT BERAT ROAD GRADDER LOKASI KERJA DIV,Service,0.9,This is a service for renting a road grader at a construction site.
+13,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199x,Product,0.9,This is a product of Fresh Fruit Oil Palm.
+14,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199...,Product,0.1,This is a product of Fresh Fruit Oil Palm
+15,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199...,Product,0.9,This is a product of Fresh Fruit Oil Palm
+16,Termin 4 7617 Pekerjaan Design and Build Gas H...,Service,0.8,This is a service for design and build gas project
+17,Uang Muka II Crude Palm Oil CPO,Product,0.95,This is a product of crude palm oil
+18,5 Bl Blanko Sounding Palm Kernel SCPR 0010662...,Service,0.9,This is a service for sounding palm kernel
+19,PAINTING JOTUN HARDTOP XP WARNA CPO OIL RAL 18...,Service,0.95,This is a service for painting CPO with Jotun Hardtop XP
+20,MASTER KEY GEMBOK TRUK CPO,Product,0.95,This is a product of master key for CPO truck
+21,10 Bl Blanko Analisa Minyak Sawit Oil Loss SCP...,Service,0.9,This is a service for analyzing palm oil loss
+22,MASTER KEY GEMBOK TRUK CPO,Product,0.95,This is a product of master key for CPO truck
+23,BLANKO SOUNDING PALM KERNEL,Service,0.9,This is a service for sounding palm kernel
+24,BLANKO SOUNDING PALM KERNEL,Product,0.1,This is a product with unknown meaning
+25,Minyak Kelapa Sawit CPO,Product,1.0,This is a product of Crude Palm Oil
+26,CPOCRUDE PALM OIL,Product,1.0,This is a product of Crude Palm Oil
+27,Lebih Angkut Palm Kernel,Product,1.0,This is a product of Palm Kernel
+28,VITAMIN A PALMITATE,Product,1.0,This is a product of Vitamin A Palmitate
+29,Lebih Kirim Toleransi atas SPJB No ,Service,0.9,This is a service for sending tolerances based on SPJB number
+30,Lebih Kirim Toleransi atas SPJB No ,Service,0.9,This is a service for sending tolerances based on SPJB number
+31,CPOCrude Palm Oil Kontrak No,Product,1.0,This is a product of Crude Palm Oil under contract
+32,Penjualan Crude Palm Oil,Product,1.0,This is a sale of Crude Palm Oil
+33,Lubang tanam Mekanis Sawit Div6,Service,0.9,This is a mechanical planting pit service for palm oil
+34,CRUDE PALM OIL CPO HS CODE 15111000,Product,1.0,This is a raw material of palm oil.
+35,Palm Kernel,Product,1.0,This is a processed product from palm oil.
+36,Pelunasan freight inti sawit in basg PangkalBa,Service,1.0,This is a service for payment of palm oil freight.
+37,PK Palm Kernel,Product,1.0,This is a processed product of palm kernel.
+38,Pelunasan freight inti sawit curah Pangkal Ba,Service,1.0,This is a service for payment of palm oil transportation.
+39,Pelunasan freight inti sawit curah Kendawangan,Service,1.0,This is a service for payment of palm oil transportation.
+40,Pembayaran I freight inti sawit curah Kendawan,Service,1.0,This is a service for payment of palm oil transportation.
+41,CRUDE PALM OIL,Product,1.0,This is a raw material of palm oil.
+42,Ongkos angkut CPO,Service,1.0,This is a service for transportation cost of Crude Palm Oil.
+43,FP 100 Freight Palm Kernel,Service,1.0,This is a freight service for Palm Kernel.
+44,CPO Crude Palm Oil,Product,1.0,This is a raw material of Crude Palm Oil.
+45,Palm Kernel,Product,1.0,This is a raw material of Palm Kernel.
+46,Pembayaran Uang Muka CPOCrude Palm Oil Kontrak...,Service,1.0,This is a payment for Crude Palm Oil contract.
+47,CRUDE PALM OIL,Product,1.0,This is a raw material of Crude Palm Oil.
+48,PK Palm Kernel Kontrak 022PKIMTLILXI2021,Product,1.0,This is a contract of Palm Kernel.
+49,CRUDE PALM OIL CPO,Product,1.0,This is a raw material or processed product from palm oil.
+50,Pembayaran Uang Muka PKPalm Kernel NoKontrak 0...,Service,1.0,This is a payment service related to palm kernel contract.
+51,PENJUALAN CRUDE PALM OIL,Product,1.0,This is a sale of crude palm oil.
+52,BIAYA HANDLING CPO,Service,1.0,This is a handling fee service for crude palm oil.
+53,CPOCrude Palm Oil Kontrak No117,Product,1.0,This is a contract sale of crude palm oil.
+54,Penjualan CPO 257SRMCPOPKUIX2021,Product,1.0,This is a sale of crude palm oil with the given contract details.
+55,CRUDE PALM OIL,Product,1.0,This is a raw material or processed product from palm oil.
+56,PENJUALAN CRUDE PALM OIL,Product,1.0,"This is a sale of Crude Palm Oil, which is considered as a raw material or processed product from palm oil."
+57,Crude Palm Oil CPO 4910 Kg Kontrak 584,Product,1.0,This is a sale of Crude Palm Oil with the contract number 584 and quantity 4910 kg.
+58,Palm Kernel PK 4964 Kg Kontrak 281KERNEL,Product,1.0,This is a sale of Palm Kernel with the contract number 281 and quantity 4964 kg.
+59,Crude Palm Oil,Product,1.0,This is a Crude Palm Oil sale with no further details provided in the name.
+60,PENJUALAN PALM KERNEL,Product,1.0,This is a sale of Palm Kernel with no further details provided in the name.
+61,PKPalm Kernel NoKontrak 067,Product,1.0,"This is a Palm Kernel sale without any contract information, only the number 067 is provided."
+62,CRUDE PALM OIL HS CODE 15111000,Product,1.0,This is a Crude Palm Oil sale with the Harmonized System (HS) code 15111000.
+63,PENJUALAN 5690 KG CPO,Service,1.0,This is a service for selling CPO in the amount of 5690 kg.
+64,Minyak Sawit CPO,Product,1.0,This is a product of Crude Palm Oil (CPO) in the amount of 5487 kg.
+65,TBS PER 1631 MEI 2021 TT 2009,Product,1.0,This is a product of palm fruit bunches with the tag number TBS PER 1631 MEI 2021 TT 2009 in the amount of 5805 kg.
+66,CPO NO C02CASSTNXIXX,Product,1.0,This is a product of Crude Palm Oil (CPO) with the tag number CPO NO C02CASSTNXIXX in the amount of 5850 kg.
+67,Ongkos Angkut TBS DIV 4,Service,1.0,This is a service for transportation costs of palm fruit bunches from division 4.
+68,CRUDE PALM OIL,Product,1.0,This is a product of Crude Palm Oil in the amount of 6430 kg.
+69,CRUDE PALM OIL FFA 5 max MI 05 max,Product,1.0,This is a product of Crude Palm Oil Free Fatty Acid (FFA) with a maximum of 5% free fatty acid and a maximum of 5% moisture in the amount not provided.
+70,PENJUALAN 7100 KG CPO,Service,1.0,This is a service for selling CPO in the amount of 7100 kg.
+71,Palm Kernel PK,Product,1.0,This is a product of Palm Kernel in the amount not provided.
+72,Palm Kernel Inti Sawit,Product,1.0,This is a product of Palm Kernel Inti Sawit (Fresh Fruit Oil Palm) in the amount not provided.
+73,CPO,Product,1.0,This is a raw material or processed product from palm oil.
+74,CPO KONTRAK JUAL BELI NOC02XX,Product,1.0,This is a contract sale of CPO.
+75,CRUDE PALM OIL,Product,1.0,This is a raw material or processed product from palm oil.
+76,PALM KERNEL,Product,1.0,This is a raw material or processed product from palm oil.
+77,TBS Periode 07 Maret 2021,Service,0.8,This seems to be a service related to TBS for the period of March 2021.
+78,Penjualan CPO 015CPOCC,Service,0.8,This seems to be a sale transaction for CPO.
+79,PK PALM KERNEL,Product,1.0,This is a product of Palm Kernel.
+80,CRUDE PALM OIL CPO SESUAI KONTRAK NO SO0012XXX...,Product,1.0,This is a product of Crude Palm Oil that matches the contract number SO0012XXX.
+81,PKPalm Kernel NoKontrak,Product,1.0,This is a product of Palm Kernel
+82,CPOCrude Palm Oil NoKontrak,Product,1.0,This is a product of Crude Palm Oil
+83,PALM KERNEL,Product,1.0,This is a product of Palm Kernel
+84,Ongkos Angkut TBS DIV 3,Service,1.0,This is a service for the cost of transporting palm oil within TBS division 3
+85,CRUDE PALM OIL,Product,1.0,This is a product of Crude Palm Oil
+86,CPO KONTRAK JUAL BELI NOCXXXXXX,Service,1.0,This is a service for the sale and purchase agreement of Crude Palm Oil with contract number NOCXXXXXX
+87,Crude Palm Oil CPO,Product,1.0,This is a raw material of Palm Oil
+88,Ongkos Angkut TBS DIV 2,Service,1.0,This is an on-transport cost service for TBS division 2
+89,CPO,Product,1.0,This is a product of Crude Palm Oil
+90,Ongkos Angkut TBS DIV 3,Service,1.0,This is an on-transport cost service for TBS division 3
+91,CRUDE PALM OIL HS CODE 15111000,Product,1.0,This is a product of Crude Palm Oil with HS Code 15111000
+92,CRUDE PALM OIL,Product,1.0,This is a product of Crude Palm Oil
+93,PALM KERNEL,Product,1.0,This is a product of Palm Kernel
+94,Ongkos Angkut TBS DIV 1,Service,1.0,This is an on-transport cost service for TBS division 1
+95,CPO KONTRAK JUAL BELI NOC05XXXXX,Product,1.0,This is a product of Crude Palm Oil with contract sale number NOC05XXXXX
+96,CRUDE PALM OIL,Product,1.0,This is a raw material of palm oil.
+97,TBS PERIODE 31 MARET 2021,Service,0.9,This is a service for transaction data of palm oil in March 2021.
+98,Palm Kernel,Product,1.0,This is a processed product from palm oil.
+99,CPOCrude Palm Oil NoKontrak 108PMXXXXXXX,Product,1.0,This is a raw material of crude palm oil with contract number 108PMXXXXXXX.
+100,PENJUALAN CRUDE PALM OIL,Service,0.9,This is a service for sale transaction data of crude palm oil.
+101,BENIH KELAPA SAWITDAMIMAS,Product,0.95,This is a product of Benih Kelapa SawitDamas.
+102,CRUDE PALM OIL,Product,1.0,This is a crude palm oil product.
+103,CRUDE PALM OIL FFA,Product,1.0,This is a crude palm oil with FFA (Free Fatty Acid) product.
+104,CRUDE PALM OIL CPO,Product,1.0,This is a crude palm oil with Certificate of Analysis (CPO).
+105,BIAYA HANDLING CPO,Service,0.95,This is a handling fee service for Crude Palm Oil with Certificate of Analysis.
+106,PALM KERNEL,Product,1.0,This is a raw material derived from palm oil.
+107,Palm Kernel,Product,1.0,This is a raw material derived from palm oil.
+108,Ongkos Angkut TBS Div 3,Service,1.0,This is a service for transport costs.
+109,Penjualan Crude Palm Oil,Product,1.0,This is a product of crude palm oil.
+110,Crude Palm Oil,Product,1.0,This is a raw material derived from palm oil.
+111,Ongkos Angkut TBS DIV 4,Service,1.0,This is a service for transport costs.
+112,Pembayaran Uang Muka CPO Crude Palm Oil Kontrak,Product,1.0,This is a product of crude palm oil payment.
+113,Crude Palm Oil,Product,1.0,This is a raw material derived from palm oil.
+114,PALM KERNEL,Product,1.0,This is a raw material or processed product from palm oil.
+115,Ongkos Angkut TBS DIV 2,Service,0.1,"The name of this product suggests an assistance or payment for transportation, therefore it is classified as a service with low confidence."
+116,PENJUALAN PALM KERNEL,Service,0.9,"The name of this product indicates a sale of palm kernel, but the verb 'penjualan' suggests a service."
+117,CRUDE PALM OIL,Product,1.0,This is a raw material or processed product from palm oil.
+118,Pembayaran Uang Muka CPOCrude Palm Oil Kontrak...,Service,0.1,This is a service for payment of crude palm oil contract.
+119,Palm Kernel,Product,0.9,This is a product of raw palm kernel.
+120,CPO Crude Palm Oil Kontrak 038CPOIMTXXXXXX,Product,0.9,This is a product of crude palm oil from contract number 038CPOIMTXXXXXX.
+121,CRUDE PALM OIL,Product,0.9,This is a product of crude palm oil.
+122,Ongkos Angkut TBS DIV 1,Service,0.9,This is a service for transportation cost of TBS division 1.
+123,TBS PERIODE 15 OKTOBER 2021,Product,0.8,"This is a product of TBS period October 15, 2021."
+124,CRUDE PALM OIL,Product,0.9,This is a product of crude palm oil.
+125,Palm Kernel,Product,0.9,This is a product of raw palm kernel.
+126,Palm Kernel,Product,0.9,This is a product of raw palm kernel.
+127,Ongkos Angkut TBS DIV 2,Service,0.1,This is a service for transportation costs
+128,Palm Kernel,Product,0.95,This is a raw material of palm oil
+129,CPOCrude Palm Oil NoKontrak 063PMXXXX,Product,0.9,This is crude palm oil without contract number
+130,Palm Kernel Oil,Product,0.9,This is processed product of palm kernel oil
+131,CRUDE PALM OIL,Product,0.95,This is raw material of crude palm oil
+132,PENJUALAN PALM KERNEL,Service,0.9,This is a service for selling palm kernel
+133,TBS PER 0115 JUN 2021 TT 2008,Service,0.9,This is a service for TBS with date and transit number
+134,PALM KERNEL,Product,0.95,This is a raw material of palm kernel
+135,PALM KERNEL,Product,0.95,This is a raw material of palm kernel
+136,TBS TLJX JLYM Bulan Juni 2021 Tahun Tanam 2008,Product,0.95,This is a product of Fresh Fruit Oil Palm with year and month of harvesting.
+137,PENJUALAN CPO,Service,1.0,This is a sale of Crude Palm Oil.
+138,PALM KERNEL,Product,1.0,This is a raw material or processed product from palm oil.
+139,TBS PERIODE 31 JANUARI 2021,Service,1.0,This is a service for the delivery note of palm oil in January 2021.
+140,TBS PERIODE 12 13 APRIL 2021,Service,1.0,This is a service for the delivery note of palm oil in April 2021.
+141,PK Palm Kernel Kontrak 015PKIMTLILXXXXXXX,Product,1.0,This is a contract of palm kernel.
+142,CRUDE PALM OIL,Product,1.0,This is a raw material or processed product from palm oil.
+143,PK Palm Kernel,Product,1.0,This is a raw material or processed product from palm oil (palm kernel).
+144,PENJUALAN CRUDE PALM OIL,Product,1.0,This is a product of Crude Palm Oil.
+145,CPO Crude Palm Oil Kontrak 042CPOIMTLILX2021,Product,1.0,This is a product of Crude Palm Oil with contract number 042CPOIMTLILX2021.
+146,PALM KERNEL,Product,1.0,This is a product of Palm Kernel.
+147,PKPalm Kernel Kontrak No007PSJCPKI2021,Product,1.0,This is a product of Palm Kernel with contract number No007PSJCPKI2021.
+148,PKPalm Kernel Kontrak No054PSJCPKIV2021,Product,1.0,This is a product of Palm Kernel with contract number No054PSJCPKIV2021.
+149,CRUDE PALM OIL KG,Product,1.0,This is a product of Crude Palm Oil in kilograms.
+150,Crude Palm Oil,Product,1.0,This is a product of Crude Palm Oil.
+151,Ongkos Angkut TBS DIV 4,Service,0.1,This is a service related to the cost of transporting TBS (Tropical Basis) Division 4.
+152,PALM KERNEL,Product,0.9,This is a raw material obtained from palm fruits.
+153,PALM KERNEL OIL,Product,0.9,This is an edible oil derived from palm kernel.
+154,TBS Periode 05 06 Juli 2021,Service,0.3,This is a service related to TBS (Tropical Basis) from the period 05 July 2021.
+155,CRUDE PALM OIL,Product,0.9,This is a raw material obtained by extracting oil from palm fruits.
+156,CPOCrude Palm Oil NoKontrak 005PMCCPOI2021,Product,0.9,This is crude palm oil from Contract NoKontrak 005PMCCPOI2021.
+157,PKPalm Kernel NoKontrak 064PMCPKIV2021,Product,0.9,This is palm kernel from Contract PMCPKIV2021.
+158,PKPalm Kernel NoKontrak 082PMCPKV2021,Product,0.9,This is palm kernel from Contract PMCPKV2021.
+159,TBS PERIODE 01 02 JUNI 2021,Service,0.6,This is a service related to TBS with period 01 June 2021.
+160,CRUDE PALM OIL,Product,0.95,This is a raw material or processed product of palm oil.
+161,Ongkos Angkut TBS DIV 2,Service,0.8,This is a service related to the cost of transporting TBS division 2.
+162,PK Palm Kernel Kontrak 004PKIMTLILII2021,Product,0.9,This is a product of palm kernel contract number PKIMTLILII2021.
+163,PK Palm Kernel Kontrak 013PKIMTLILVIII2021,Product,0.9,This is a product of palm kernel contract number PKIMTLILVIII2021.
+164,PK Palm Kernel Kontrak 012PKIMTLILVIII2021,Product,0.9,This is a product of palm kernel contract number PKIMTLILVIII2021.
+165,CLAIM CPO,Service,1.0,This is a service related to claiming CPO (Crude Palm Oil)
+166,TBS PER 1631 DES 2021 TT 2012,Service,1.0,This is a service related to TBS (Tropical Bunch Sampling) of palm oil with the description 'PER 1631 DES 2021 TT 2012'
+167,BENIH KELAPA SAWITDAMIMAS,Product,1.0,This is a product of palm seeds with the name 'BENIH KELAPA SAWITDAMIMAS'
+168,PENJUALAN CRUDE PALM OIL,Service,1.0,This is a service related to the sale of Crude Palm Oil
+169,CRUDE PALM OIL,Product,1.0,This is a product of Crude Palm Oil
+170,PALM KERNEL,Product,1.0,This is a product of palm kernel
+171,CPO CRUDE PALM OIL Kontrak 017CPOIMTLILVI2021,Product,1.0,This is a product of Crude Palm Oil with the contract number 'CPO CRUDE PALM OIL Kontrak 017CPOIMTLILVI2021'
+172,CPO CRUDE PALM OIL Kontrak 006CPOIMTLILIII2021,Product,1.0,This is a product of Crude Palm Oil with the contract number 'CPO CRUDE PALM OIL Kontrak 006CPOIMTLILIII2021'
+173,TBS PERIODE 12 13 JULI 2021,Service,1.0,This is a service related to Tropical Bunch Sampling of palm oil with the description 'PERIODE 12 13 JULI 2021'
+174,Bibit Kelapa Sawit,Product,1.0,This is a product of palm seeds with the name 'Bibit Kelapa Sawit'
+175,CRUDE PALM OIL,Product,1.0,This is a raw material or processed product from palm oil.
+176,Crude Palm Oil,Product,1.0,This is a raw material or processed product from palm oil.
+177,TBS Periode 15 Maret 2021,Product,1.0,This is a product of palm fruits harvested in March 2021.
+178,CPOCrude Palm Oil Kontrak No004PSJCCPOI2021,Product,1.0,This is a contract for crude palm oil with the number No004PSJCCPOI2021.
+179,PK Palm Kernel Kontrak 010PKIMTLILVII2021,Product,1.0,This is a contract for palm kernel with the number 010PKIMTLILVII2021.
+180,TBS PERIODE 21 DESEMBER 2021,Service,0.7,"This is a service related to TBS period ending on December 21, 2021."
+181,PALM KERNEL PK,Product,0.95,This is a product of palm kernel.
+182,TBS PERIODE 11 12 AGUSTUS 2021,Service,0.8,"This is a service related to TBS period ending on August 11, 2021."
+183,Ongkos Angkut TBS DIV 3,Service,0.85,This is a service for transport cost of TBS Division 3.
+184,CPOCrude Palm Oil NoKontrak 089PMCCPOV2021,Product,0.95,This is a product of Crude Palm Oil with contract number 089PMCCPOV2021.
+185,CPOCrude Palm Oil NoKontrak 066PMCCPOIV2021,Product,0.95,This is a product of Crude Palm Oil with contract number 066PMCCPOIV2021.
+186,Ongkos Angkut TBS Div 5,Service,0.9,This is a service for transporting palm oil from TBS Division 5.
+187,Palm Kernel,Product,1.0,This is a raw material of palm oil obtained from the fruit of the oil palms.
+188,Pembayaran Uang Muka CPO Crude Palm Oil Kontrak,Service,0.9,This is a service for payment of advance payment for crude palm oil contract.
+189,TBS PER 1631 DES 2021 TT 2011,Product,0.9,This is a product of crude palm oil obtained from the TBS in December 2021.
+190,Ongkos Angkut TBS DIV 3,Service,0.9,This is a service for transporting palm oil from TBS Division 3.
+191,Crude Palm Oil NoKontrak 150PMCCPOIX2021,Product,0.9,This is a product of crude palm oil under contract no: 150PMCCPOIX2021.
+192,Crude Palm Oil,Product,1.0,This is a raw material of crude palm oil obtained from the fruit of the oil palms.
+193,TBS Periode 17 Juni 2021,Product,0.9,This is a product of crude palm oil obtained from the TBS in June 2021.
+194,CRUDE PALM OIL,Product,1.0,This is a raw material of crude palm oil obtained from the fruit of the oil palms.
+195,Palm Kernel,Product,1.0,This is a raw material or processed product from palm oil.
+196,CRUDE PALM OIL,Product,1.0,This is a raw material or processed product from palm oil.
+197,PALM KERNEL CURAH MB Mass Balance RSPO Certified,Product,1.0,This is a raw material or processed product from palm oil.
+198,TBS PER 0115 DES 2021 TT 2013,Product,1.0,This is a product or a specific designation of palm oil.
+199,TBS PERIODE 26 FEBRUARI 2021,Product,1.0,This is a product or a specific designation of palm oil.
+200,Ongkos Angkut TBS Div 4,Service,1.0,This is a service related to the transportation of palm oil or its by-products.
+201,Ongkos Angkut TBS DIV 3,Service,1.0,This is a service related to the transportation of palm oil or its by-products.
+202,TBS PERIODE 16 DESEMBER 2021,Product,1.0,This is a product or a specific designation of palm oil.
+203,INTI SAWIT,Product,1.0,This is a raw material of Palm Oil - Palm Kernels and Palm Oil - Crude Palm Oil.
+204,Crude Palm Oil,Product,1.0,This is a refined form of palm oil.
+205,Palm Kernel,Product,1.0,This is a raw material of Palm Oil - Crude Palm Oil and edible oil.
+206,Ongkos Angkut TBS DIV 2,Service,1.0,This is a transportation cost of Fresh Fruit Bunches (TBS) from Division 2.
+207,TBS Periode 0607 Desember 2021,Product,1.0,This refers to the Fresh Fruit Bunches (TBS) of Palm Oil harvested between December 2021 and the next month.
+208,CRUDE PALM OIL,Product,1.0,This is a refined form of palm oil.
+209,Penjualan Palm Kernel,Service,1.0,This is a sales service for Palm Kernels.
+210,Uang Muka Palm Kernel,Service,1.0,This is an advance payment for the sale of Palm Kernels.
+211,Crude Palm Oil,Product,1.0,This is a raw material of Palm Oil.
+212,TBS PER 1630 NOV 2021 TT 2008,Product,0.9,This is a product derived from palm oil.
+213,PK Palm Kernel,Product,1.0,This is a raw material of Palm Kernel.
+214,Pembayaran Uang Muka CPOCrude Palm Oil NoKontrak,Service,0.9,This is a payment service for Crude Palm Oil Contract.
+215,PENJUALAN CRUDE PALM OIL,Service,0.9,This is a sale service for Crude Palm Oil.
+216,Ongkos Angkut TBS Div 1,Service,0.9,This is a transport cost service for TBS Division 1.
+217,CRUDE PALM OIL,Product,1.0,This is a raw material or processed product from palm oil.
+218,PALM KERNEL,Product,1.0,This is a raw material or processed product from palm oil.
+219,Ongkos Angkut CPO,Service,1.0,This is a service for transportation cost of Crude Palm Oil.
+220,Crude Palm Oil,Product,1.0,This is a raw material or processed product from palm oil.
+221,Palm Kernel,Product,1.0,This is a raw material or processed product from palm oil.
+222,CPO Crude Palm Oil Kontrak 001CPOIMTLILI2021,Product,1.0,This is a raw material or processed product from palm oil in the form of a contract.
+223,CPOCrude Palm Oil Kontrak No012PSJCCPOI2021,Product,1.0,This is a raw material or processed product from palm oil in the form of a contract.
+224,PENJUALAN PALM KERNEL,Service,1.0,This is a service for selling Palm Kernel.
+225,TBS PER 1631 OKT 2021 TT 2008,Product,0.9,This is a product of TBS with the description 'TBS PER 1631 OKT 2021 TT 2008'
+226,UANG MUKA CRUDE PALM OIL,Product,0.9,This is a product of Crude Palm Oil with the description 'UANG MUKA CRUDE PALM OIL'
+227,CPOCrude Palm Oil Kontrak No002PSJCCPOI2021,Product,0.9,This is a product of Crude Palm Oil with the description 'CPOCrude Palm Oil Kontrak No002PSJCCPOI2021'
+228,PENJUALAN PALM KERNEL,Product,0.9,This is a product of Palm Kernel with the description 'PENJUALAN PALM KERNEL'
+229,TBS PERIODE 25 MEI 2021,Product,0.9,This is a product of TBS with the description 'TBS PERIODE 25 MEI 2021'
+230,PALM KERNEL,Product,0.9,This is a product of Palm Kernel with the description 'PALM KERNEL'
+231,TBS PER 0115 DES 2021 TT 2012,Product,0.9,This is a product of TBS with the description 'TBS PER 0115 DES 2021 TT 2012'
+232,TBS PERIODE 02 03 AGUSTUS 2021,Service,0.0,This is not a product or service as it is just a label or identifier.
+233,Palm Kernel,Product,1.0,This is a raw material derived from palm oil.
+234,KLAIM MUTU CPO,Service,1.0,This is a service for quality claim of Crude Palm Oil.
+235,PALM KERNEL,Product,1.0,This is a raw material derived from palm oil.
+236,PK PALM KERNEL,Service,1.0,This is a service for packaging or processing of Palm Kernel.
+237,Crude Palm Oil,Product,1.0,This is an unrefined oil extracted from the palm fruit.
+238,CRUDE PALM OIL,Product,1.0,This is a synonym for Crude Palm Oil.
+239,CPOCrude Palm Oil NoKontrak 013PMCCPOI2021,Product,1.0,This is an identification label for Crude Palm Oil with contract number 013PMCCPOI2021.
+240,TBS Periode 15 sd 16 November 2021,Service,0.0,This is a service related to TBS (Trading Base) for the period of 15-16 November 2021.
+241,PALM KERNEL,Product,1.0,This is a raw material obtained from palm fruits.
+242,CPOCrude Palm Oil Kontrak No084PSJCCPOVIII2021,Product,1.0,This is Crude Palm Oil under contract No084PSJCCPOVIII2021.
+243,CPO Crude Palm Oil Kontrak 010CPOIMTLILIV2021,Product,1.0,This is Crude Palm Oil under contract 010CPOIMTLILIV2021.
+244,PKPalm Kernel Kontrak No105PSJCPKIX2021,Product,1.0,This is Palm Kernel under contract No105PSJCPKIX2021.
+245,PALM KERNEL OIL,Product,1.0,This is oil extracted from palm kernel.
+246,CRUDE PALM OIL,Product,1.0,This is unrefined and unreprocessed Palm Oil.
+247,Palm Kernel,Product,1.0,This is the edible kernel found inside palm fruits.
+248,Ongkos Angkut TBS DIV 4,Service,0.9,This refers to transportation costs for TBS (Trading Base) in Division 4.
+249,PALM KERNEL OIL,Product,1.0,This is oil extracted from palm kernels.
+250,PKPalm Kernel NoKontrak 100PMCPKVI2021,Product,1.0,This is a product of Palm Kernel
+251,CPO Crude Palm Oil Kontrak 020CPOIMTLILVI2021,Product,1.0,This is a product of Crude Palm Oil
+252,PALM KERNEL,Product,1.0,"This is a raw material or processed from palm oil, therefore classified as a Product."
+253,Palm Kernel,Product,1.0,"This is a raw material or processed from palm oil, therefore classified as a Product."
+254,CRUDE PALM OIL,Product,1.0,This is a product of Crude Palm Oil
+255,Ongkos Angkut TBS DIV 2,Service,1.0,This is a service for ongkos angkut (transport cost) in the division 2.
+256,CPOCrude Palm Oil NoKontrak 062PMCCPOIV2021,Product,1.0,This is a product of Crude Palm Oil under contract no: 062PMCCPOIV2021
+257,CPOCrude Palm Oil No Kontrak 210PMCCPOXII2021,Product,1.0,This is a product of Crude Palm Oil under contract no: 210PMCCPOXII2021
+258,PALM KERNEL,Product,1.0,"This is a raw material or processed from palm oil, therefore classified as a Product."
+259,Ongkos Angkut TBS DIV 2,Service,1.0,This is a service for transportation cost of TBS Division 2.
+260,CRUDE PALM OIL KG,Product,1.0,This is a raw material or processed product of Crude Palm Oil in kilograms.
+261,Crude Palm Oil,Product,1.0,This is a raw material or processed product of Crude Palm Oil.
+262,PALM KERNEL,Product,1.0,This is a raw material or processed product of Palm Kernel.
+263,TBS Periode 09 sd 10 Oktober 2021,Service,1.0,"This is a service for TBS in the period of October 9 to 10, 2021."
+264,TBS Periode 28 Juni 2021,Service,1.0,"This is a service for TBS in the period of June 28, 2021."
+265,Pembayaran Uang Muka CPOCrude Palm Oil Kontrak...,Service,1.0,This is a service for payment of advance for Crude Palm Oil Contract...
+266,CPO Crude Palm Oil Kontrak 041CPOIMTLILX2021,Product,1.0,This is a product of Crude Palm Oil Contract number 041CPOIMTLILX2021.
+267,TBS Periode 25 28 Agustus 2021,Service,0.1,This is a service related to TBS (Test Boothed Sample) with the given period and date.
+268,Crude Palm Oil,Product,0.95,This is a raw material or processed product of Crude Palm Oil.
+269,CPO Crude Palm Oil Kontrak 015CPOIMTLILVI2021,Product,0.98,This is a product of Crude Palm Oil with contract number 015CPOIMTLILVI2021.
+270,TBS PER 1631 DES 2021 TT 2010,Service,0.8,This is a service related to TBS (Test Boothed Sample) with the given period and date.
+271,CRUDE PALM OIL,Product,0.95,This is a raw material or processed product of Crude Palm Oil.
+272,Tuslaag TBS Div 6,Service,0.1,This is a service related to Tuslaag (a term possibly referring to a laboratory or testing facility) and the given division number.
+273,Palm Kernel,Product,0.98,This is a raw product derived from palm trees called palm kernels.
+274,PALM KERNEL KONTRAK NO 036SJMSKJBPKIV2021,Product,0.95,This is a product of palm kernel with the given contract number.
+275,Panjar Penjualan CPO 146SRMCPOPKUVI2021,Product,0.9,This is a product of Crude Palm Oil
+276,TBS PERIODE 30 31 OKTOBER 2021,Service,0.8,This is a service related to TBS with delivery date of October 2021
+277,CRUDE PALM OIL,Product,1.0,This is a raw material of Crude Palm Oil
+278,Ongkos Angkut TBS DIV 6,Service,0.8,This is a service for transport cost of TBS Division 6
+279,TBS Periode 04 07 September 2021,Service,0.8,This is a service related to TBS with delivery date of September 2021
+280,Palm Kernel,Product,1.0,This is a product of Palm Kernel
+281,PALM KERNEL,Product,0.9,This is a product of Palm Kernel
+282,Ongkos Angkut CPO,Service,0.8,This is a service for transport cost of Crude Palm Oil
+283,TBS Periode 23 Maret 2021,Service,0.8,This is a service related to TBS with delivery date of March 2021
+284,Pembelian Palm Kernel PK,Product,1.0,This is a product of Palm Kernel
+285,CRUDE PALM OIL,Product,1.0,This is a raw material or processed product from palm oil
+286,Ongkos Angkut CPO,Service,1.0,This is a service for transportation cost of Crude Palm Oil
+287,Ongkos Angkut CPO,Service,1.0,This is a service of transport cost for Crude Palm Oil.
+288,UANG MUKA CRUDE PALM OIL,Product,1.0,This is a raw material or product of Crude Palm Oil.
+289,CPOCrude Palm Oil NoKontrak 016PMCCPOI2021,Product,1.0,This is a product of Crude Palm Oil with contract number 016PMCCPOI2021.
+290,PALM KERNEL,Product,1.0,This is a product of Palm Kernel.
+291,Ongkos Angkut TBS DIV 5,Service,1.0,This is a service for transportation cost of TBS Div 5.
+292,CRUDE PALM OIL,Product,1.0,This is a raw material or processed product from palm oil.
+293,Crude Palm Oil DP 95 Surat Perjanjian JualBeli...,Product,1.0,This is a raw material or processed product from palm oil with a purchase agreement.
+294,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199...,Product,0.9,This is a product of Fresh Fruit Oil Palm with the year of cultivation 199...
+295,BLANKO SOUNDING PALM KERNEL,Service,0.9,This is a sounding service for palm kernel.
+296,Crude Palm Oil DP 98 Surat Perjanjian JualBeli,Product,0.95,This is a raw material or processed product of Crude Palm Oil.
+297,Crude Palm Oil Pelunasan Surat Perjanjian Jual,Product,0.95,This is a raw material or processed product of Crude Palm Oil.
+298,Palm Kernel Surat Perjanjian JualBeli No0006P,Product,0.95,This is a raw material or processed product of Palm Kernel.
+299,Palm Kernel Surat Perjanjian JualBeli No0046P,Product,0.95,This is a raw material or processed product of Palm Kernel.
+300,"Palm Kernel DP, Surat Perjanjian JualBeli",Product,0.95,This is a raw material or processed product made from palm oil.
+301,Palm Kernel Pelunasan Surat Perjanjian JualBeli,Service,0.9,This is a service related to the payment or settlement of palm kernel sales contracts.
+302,CPOCrude Palm Oil NoKontrak,Product,0.95,This is a crude palm oil product.
+303,PALM KERNEL,Product,0.95,This is a raw material or processed product made from palm oil.
+304,PALM KERNEL PK,Product,1.0,This is a raw material of Palm Kernel
+305,CRUDE PALM OIL,Product,1.0,This is a processed product from Palm Oil
+306,TBS PERIODE 23 27 JUNI 2021,Service,0.9,"This is a service for testing or inspecting TBS with period 23 on June 27, 2021"
+307,PALM KERNEL,Product,1.0,This is a raw material of Palm Kernel
+308,PALM KERNEL,Product,1.0,This is a raw material of Palm Kernel
+309,PALM KERNEL,Product,1.0,This is a raw material of Palm Kernel
+310,CRUDE PALM OIL,Product,1.0,This is a processed product from Palm Oil
+311,Crude Palm Oil,Product,1.0,This is a processed product from Palm Oil
+312,Ongkos angkut CPO,Service,0.9,This is a service for transport cost of Crude Palm Oil
+313,CRUDE PALM OIL CPO SESUAI KONTRAK NO SO0102102...,Product,1.0,This is a Crude Palm Oil that matches the contract number SO0102102...
+314,PANJAR PALM KERNEL KONTRAK NO 010SJMSKJBPKII2021,Product,0.95,This is a product of palm kernel with contract number 010SJMSKJBPKII2021.
+315,PANJAR PALM KERNEL KONTRAK NO 098SJMSKJBPKXI2021,Product,0.95,This is a product of palm kernel with contract number 098SJMSKJBPKXI2021.
+316,Ongkos Angkut TBS Div 4,Service,0.9,This is a service for transport cost of TBS division 4.
+317,Ongkos Angkut TBS DIV 3,Service,0.9,This is a service for transport cost of TBS division 3.
+318,PENJUALAN CPO 136CPOKSPSIPXI2021,Product,0.95,This is a product of Crude Palm Oil with sales order number 136CPOKSPSIPXI2021.
+319,Tuslaag TBS Div 1,Product,0.95,This is a product of Tuslaag with TBS division 1.
+320,CRUDE PALM OIL,Product,0.95,This is a product of Crude Palm Oil.
+321,PKPalm Kernel NoKontrak 059PMCPKIV2021,Product,0.95,This is a product of palm kernel with contract number 059PMCPKIV2021.
+322,PKPalm Kernel NoKontrak 077PMCPKIV2021,Product,0.95,This is a product of palm kernel with contract number 077PMCPKIV2021.
+323,PALM KERNEL,Product,0.95,This is a product of palm kernel.
+324,PALM KERNEL,Product,1.0,This is a raw material or processed product from palm oil.
+325,CRUDE PALM OIL,Product,1.0,This is a raw material or processed product from palm oil.
+326,CPO Crude Palm Oil Kontrak 037CPOIMTLILIX2021,Product,1.0,This is a raw material or processed product from palm oil with contract number.
+327,Penjualan CPO 280SRMCPOPKUXII2020,Product,1.0,This is a sold product of Crude Palm Oil.
+328,Ongkos Angkut TBS DIV 1,Service,0.9,This is a service for transportation cost in TBS Division 1.
+329,UANG MUKA PK PALM KERNEL,Product,1.0,This is a product of Palm Kernel with down payment.
+330,TBS Periode 03 09 November 2021,Service,0.9,This is a service for TBS period 3 on 09 November 2021.
+331,CPOCrude Palm Oil Kontrak No086PSJCCPOVIII2021,Product,1.0,This is a raw material or processed product from palm oil with contract number.
+332,CPO CRUDE PALM OIL,Product,1.0,This is a product of Crude Palm Oil.
+333,Crude Palm Oil CPO 95000 Kg Kontrak 596CPOSMNI,Product,1.0,This is a product of Crude Palm Oil with contract number 596CPOSMNI.
+334,PK PALM KERENEL,Product,1.0,This is a product of PK Palm Kernel.
+335,PK PALM KERNEL,Product,1.0,This is a product of PK Palm Kernel.
+336,Palm Kernel PK 95000 Kg Kontrak 255KERNELSMNIM,Product,1.0,This is a product of Palm Kernel with contract number 255KERNELSMNIM.
+337,Pembayaran Uang Muka CPOCrude Palm Oil Kontrak,Service,1.0,This is a service for advance payment of Crude Palm Oil.
+338,Pembayaran Uang Muka CPOCrude Palm Oil NoKontrak,Service,1.0,This is a service for advance payment of Crude Palm Oil without contract.
+339,PALM KERNEL,Product,1.0,This is a product of Palm Kernel.
+340,Ongkos Angkut TBS DIV 2,Service,0.1,This is a service for transport cost of TBS DIV 2.
+341,Palm Kernel,Product,0.95,This is a product of raw palm kernel.
+342,Ongkos Angkut CPO,Service,0.1,This is a service for transport cost of CPO.
+343,PALM KERNEL,Product,0.95,This is a product of palm kernel.
+344,INTI KELAPA SAWIT,Product,0.95,This is a product of palm oil seeds.
+345,PENJUALAN CPO 028CPOKSPSIPIII2021,Service,0.1,This is a service for palm oil cargo sale number 028CPOKSPSIPIII2021.
+346,PENJUALAN CPO 049CPOKSPSIPIV2021,Service,0.1,This is a service for palm oil cargo sale number 049CPOKSPSIPIV2021.
+347,Panjar Penjualan CPO 001SRMCPOPKUI2021,Service,0.1,This is a service for palm oil cargo sale support structure number 001SRMCPOPKUI2021.
+348,Panjar Penjualan CPO 022SRMCPOPKUI2021,Service,0.1,This is a service for palm oil cargo sale support structure number 022SRMCPOPKUI2021.
+349,Panjar Penjualan CPO,Product,1.0,These are products of Crude Palm Oil
+350,Panjar Penjualan CPO,Product,1.0,This is a product of Crude Palm Oil
+351,Uang muka PK PALM KERNEL,Product,1.0,This is a product of Palm Kernel Letter of Credit
+352,Ongkos Angkut CPO,Service,1.0,This is a service for transportation cost of Crude Palm Oil
+353,Palm Kernel,Product,1.0,This is a product of Palm Kernel
+354,TBS Periode 19 Juli 2021,Product,1.0,"This is a product of TBS with delivery date of July 19, 2021"
+355,Ongkos Angkut CPO,Service,1.0,This is a service for transport cost of CPO
+356,Penjualan CPO 014SRMCPOPKUI2021,Product,1.0,This is a product of CPO sold under contract number 014SRMCPOPKUI2021
+357,Minyak Sawit CPO,Product,1.0,This is a product of Crude Palm Oil
+358,CPO Crude Palm Oil Kontrak 016CPOIMTLILVI2021,Product,1.0,This is a product of Crude Palm Oil under contract number 016CPOIMTLILVI2021
+359,TBS Periode 2730 Oktober 2021,Product,1.0,This is a product of TBS for the period October 2021
+360,CPO CRUDE PALM OIL,Product,1.0,This is a product of Crude Palm Oil
+361,PK PALM KERNEL,Product,1.0,This is a product of Palm Kernel
+362,PALM KERNEL,Product,1.0,This is a product of Palm Kernel
+363,Minyak Sawit CPO,Product,1.0,This is a product of Crude Palm Oil labeled as Minyak Sawit CPO
+364,Analisa Pengujian INSPEKSI MINYAK KELAPA SAWIT DAN PRODUK TURUNANNYA dan Analisa 1 Sa,Service,0.9,This is a service for testing palm oil and its derivatives.
+365,TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1999 1700094 KG,Product,0.9,This is a product of Fresh Fruit Oil Palm.
+366,CPO,Product,1.0,This is Crude Palm Oil.
+367,PALM KERNEL PK,Product,1.0,This is Packed Palm Kernel.
+368,Palm Kernel,Product,1.0,This is Palm Kernel.
+369,CPO CRUDE PALM OIL,Product,1.0,This is Crude Palm Oil.
+370,CRUDE PALM OIL CPO,Product,1.0,This is Crude Palm Oil obtained from CPO.
+371,PK PALM KERNEL,Product,1.0,This is Packed Palm Kernel.
+372,Pembelian Crude Palm Oil CPO,Service,0.9,This is a service for purchasing Crude Palm Oil.
+373,CRUDE PALM OIL,Product,1.0,This is Crude Palm Oil.
+374,PALM KERNEL PK,Service,0.9,This is a service for packaging Palm Kernel.
+375,Analisa Sampel RBD Palm Stearin,Service,1.0,This is a service for analyzing RBD palm stearin.
+376,CPO,Product,1.0,This is a raw material or processed product from palm oil.
+377,Pengujian Inspeksi Minyak Kelapa Sawit...,Service,1.0,This is a service for inspecting and testing palm oil.
+378,Discharging Survey of CPO,Service,1.0,This is a survey for discharging CPO.
+379,Kalibrasi Sounding Tape CPO,Service,1.0,This is a service for calibrating sounding tape for CPO.
+380,Pelunasan 50 angkutan CPO dari...,Service,1.0,This is a payment for transporting 50 trucks of CPO.
+381,Tandan Buah Segar Kelapa Sawit Tahun Tanam 199...,Product,1.0,This is a fresh fruit of palm oil harvested in the year 199...
+382,CPO Crude Palm Oil,Product,1.0,This is a raw material or processed product from crude palm oil.
+383,CRUDE PALM OIL CPO,Product,1.0,This is a raw material or processed product from crude palm oil.
+384,Crude Palm Oil,Product,1.0,This is a raw material from the palm tree.

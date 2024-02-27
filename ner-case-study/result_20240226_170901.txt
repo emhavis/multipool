@@ -1,0 +1,199 @@
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "The text refers to a sample of palm stearin, which is a primary product derived from the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used as an input for palm oil processing.", "quantity": 1}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "The text mentions the inspection of palm oil and its byproducts, which falls under the category of maintenance or repair service.", "quantity": 1}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.9, "explanation": "Discarging survey of CPO 2999998 MT at Kabil Batam on 1416122021 is a transport service.", "quantity": 1}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.75, "explanation": "Discarging survey of CPO refers to the process of unloading the cargo from a ship.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Kalibrassi sounding tape is a tool used in the processing of palm oil.", "quantity": 1}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.9, "explanation": "Loading Survey of CPKO 1999887 MT and CPO 2503809 MT at Dumai on 1516102021 is a transport service for palm oil products", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "The text refers to the loading of crude palm oil (CPO) which is a primary product of the oil palm fruit.", "quantity": 2999998}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "Loading Survey of CPO 3000301 MT at Tayan on 1920102021 is a transport service.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary part of the oil palm fruit.", "quantity": 9481}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "Pengiriman Kecambah Sawit is a transportation service for palm oil products.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used as an input for palm oil processing.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit is a primary product.", "quantity": 25200}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit is a primary product.", "quantity": 1190024}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit is a primary product.", "quantity": 4907412}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 5276210}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit is a primary product.", "quantity": 5701628}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit is a primary product.", "quantity": 12217767}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit is a primary product.", "quantity": 13269963}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm oil fruit", "quantity": 13269963}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit is a primary product.", "quantity": 13609592}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit is a primary product.", "quantity": 7184896}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit is a primary product.", "quantity": 7637226}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit is a primary product.", "quantity": 8113557}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit is a primary product.", "quantity": 8628950}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit is a primary product.", "quantity": 8861121}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 1458681}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit is a primary product.", "quantity": 1700094}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 1990593}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm oil fruit", "quantity": 2367230}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.95, "explanation": "Pabrik Kelapa Sawit (PKS) is a palm oil mill that produces crude palm oil (CPO) through the processing of fresh fruit bunches (FFB). The design and build gas holder service provided by Termin 4 is an asset used in the production process.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Uang Muka II Crude Palm Oil (CPO) is a primary product of the oil palm fruit.", "quantity": 5000}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary part of the oil palm fruit.", "quantity": 10662610}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Painting material", "quantity": 18}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Mast Key Gembock Truk Cpo is a product of palm oil fruit.", "quantity": 1}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.9, "explanation": "The text mentions 'Analisa Minyak Sawit' which is a service provider for oil loss assessment and management.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Mast Key Gembock Truk Cpo is a product of palm oil fruit.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 20}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Minyak Kelapa Sawit CPO is a product made from the oil of the oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm oil is a primary product of the oil palm fruit.", "quantity": 0}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "Grading is a service that involves the processing of palm oil fruit to separate the crude palm oil from other impurities.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "VITAMIN A PALMITATE is a primary part of the oil palm fruit.", "quantity": 17}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.9, "explanation": "Lebih Kirim Toleransi atas SPJB No  088XXCPOXXX20XX is a maintenance and repair service for palm oil processing equipment.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 50}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm oil fruit is a primary product of the oil palm tree.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Tanaman Kelapa Sawit is a type of oil palm fruit that is used for the production of palm oil.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "Lubang tanam is a maintenance and repair service for oil palm trees.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "service", "category": "Transport service", "confidenceLevel": 1.0, "explanation": "The text refers to the transportation of palm oil products, which falls under the category of transport services.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 100}
+{"type": "service", "category": "Transport service", "confidenceLevel": 1.0, "explanation": "Pelunasan is a type of freight service for transporting oil palm fruit from Pangkal Balam to Lampung.", "quantity": 1}
+{"type": "service", "category": "Transport service", "confidenceLevel": 1.0, "explanation": "Pelunasan is a transportation service for palm oil products.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is directly used in the processing of palm oil.", "quantity": 0}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "ONGKOS ANGKUT PALM KERNEL is a transport service for palm kernel.", "quantity": 100}
+{"type": "service", "category": "Transport service", "confidenceLevel": 1.0, "explanation": "Pembayaran I freight inti sawit curah KendawanganLampung is a transportation service for palm oil products.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100.0}
+{"type": "service", "category": "Transport service", "confidenceLevel": 1.0, "explanation": "Angkutan CPO (Oil Palm Fruit Transport) service", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary part of the oil palm fruit.", "quantity": 100}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "The text mentions 'TBS PER' which is a common abbreviation for 'Transport and Business Services', indicating that the product is related to transportation services.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "CPO Crude Palm Oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "The text mentions 'Pembayaran Uang Muka' which is a service related to the processing of palm oil.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100.0}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "The text mentions 'Kontrak' which is a service provider for palm kernel processing.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil (CPO) is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "The text mentions 'Pembayaran Uang Muka' which is a service related to the processing of palm oil.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "The text mentions 'Pembayaran Uang Muka' which is a service related to the processing of palm oil.", "quantity": 1}
+{"type": "service", "category": "Transport service", "confidenceLevel": 1, "explanation": "Ongkos Angkut is a transportation service provider", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Tanaman Kelapa Sawit Batch 202201R121 PO4200159439 is a palm oil fruit.", "quantity": 1}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "BIAYA HANDLING CPO is a transportation service for palm oil products.", "quantity": 1}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "CPO Crude Palm Oil Kontrak No117 is a maintenance and repair service for palm oil processing equipment.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "The text mentions 'Penjualan CPO' which is a product of palm oil.", "quantity": 257}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude Palm Oil (CPO) is a primary product of the oil palm fruit.", "quantity": 4910}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 4964}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude Palm Oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and cosmetics.", "quantity": 500}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 5000}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "PKPalm Kernel NoKontrak is a maintenance and repair service for palm kernel processing machines.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 5000}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude Palm Oil (CPO) is a primary product of the oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Minyak Sawit is a type of palm oil product.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Penjuanal 5690 KG CPO is a product of oil palm fruit.", "quantity": 5690}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "TBS PER 1631 MEI 2021 TT 2009 is a transportation service for palm oil products.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary part of the oil palm fruit.", "quantity": 0}
+{"type": "service", "category": "Transport service", "confidenceLevel": 1.0, "explanation": "Ongkos Angkut is a transportation service provider", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100.0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 5}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Penjuanal 7100 KG CPO is a product of palm oil fruit.", "quantity": 7100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude Palm Oil (CPO) is a primary product of the oil palm fruit.", "quantity": 0}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "The text mentions 'Jual Beli' which is a service for buying and selling goods, including palm oil products. The term 'Kontrak' implies a contract or agreement between two parties, suggesting that the service provided is related to the maintenance or repair of palm oil processing equipment.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100.0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "The text mentions 'periode' which is a service related to maintenance and repair of machinery or equipment.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Penjualan CPO 015CPOCC is a product of palm oil fruit.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100.0}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "The text mentions 'CPO' which is an abbreviation for 'Certificate of Origin', and 'NO C01CASSTNXXXX' which is a unique identifier for the shipment. This suggests that the product is related to logistics and transportation services.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.8, "explanation": "Palm oil fruit is a primary product of the oil palm tree.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "Ongkos Angkut is a transportation service provider", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100.0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude Palm Oil CPO is a primary product of the oil palm fruit.", "quantity": 9990}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "The text mentions 'JUAL BELI' which is a service related to the maintenance and repair of oil palm trees.", "quantity": 1}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "The text mentions 'JUAL BELI' which is a service related to the maintenance and repair of oil palm trees.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude Palm Oil CPO is a primary product of the oil palm fruit.", "quantity": 10000}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude Palm Oil CPO is a primary product of the oil palm fruit.", "quantity": 10000}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "Ongkos Angkut is a transportation service provider", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude Palm Oil (CPO) is a primary product of the oil palm fruit.", "quantity": 0}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "Ongkos Angkut is a transportation service provider for oil palm fruit.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary part of the oil palm fruit.", "quantity": 0}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "Ongkos Angkut is a transportation service provider for oil palm fruit.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100.0}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "The text mentions 'Jual Beli' which is a service for buying and selling goods, including palm oil products. The term 'Kontrak' implies a contract or agreement between two parties, and 'Noc05XXXXX' could be a unique identifier for the contract.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100.0}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "TBS PERIODE 31 MARCH 2021 is a maintenance and repair service for oil palm trees.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm oil fruit is a primary product of the oil palm tree.", "quantity": 108}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "The text mentions 'TBS PERIODE', which suggests that the product is related to maintenance or repair services for palm oil processing equipment.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 5000.0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "Benih kelapa sawitdama is a maintenance and repair service for oil palm trees.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100.0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 5}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "CRUDE PALM OIL CPO is a product of palm oil fruit.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "Ongkos Angkut is a transportation service provider for oil palm fruit.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 5000}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "TBS Periode 05 Januari 2021 refers to a maintenance or repair service for palm oil processing equipment.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100.0}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "BIAYA HANDLING CPO is a transportation service for palm oil products.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of the oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "service", "category": "Transport service", "confidenceLevel": 1.0, "explanation": "Ongkos Angkut is a transportation service provider", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 500}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude Palm Oil is a primary product of the oil palm fruit.", "quantity": 100.0}
+{"type": "service", "category": "Transport service", "confidenceLevel": 1, "explanation": "Ongkos Angkut is a transportation service provider", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "The text mentions 'Pembayaran Uang Muka' which is a payment service for palm oil contracts.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "service", "category": "Transport service", "confidenceLevel": 1.0, "explanation": "Ongkos Angkut is a transportation service provider", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 5000}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.9, "explanation": "The text mentions 'PKPalm Kernel' which is a service related to palm oil processing.", "quantity": 118}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "The text mentions 'TBS PERIODE' which is a service provider for oil palm processing.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "Pembayaran uang muka CPO Crude Palm Oil Kontrak No040PSJXXXXX is a service related to the maintenance and repair of palm oil processing equipment.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm oil fruit is a primary product of the oil palm tree.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "Ongkos Angkut is a transportation service provider for oil palm fruit.", "quantity": 1}
+{"type": "service", "category": "Transport service", "confidenceLevel": 1.0, "explanation": "Ongkos Angkut is a transportation service provider", "quantity": 1}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "TBS PERIODE 15 OKTOBER 2021 is a maintenance and repair service for oil palm trees.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "service", "category": "Transport service", "confidenceLevel": 1.0, "explanation": "Ongkos Angkut is a transportation service provider", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm oil fruit is a primary product of the oil palm tree.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel oil is a primary product of the oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100.0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 5000}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.9, "explanation": "The text mentions 'TBS PER 0115 JUN 2021 TT 2008', which suggests that it is related to transportation services.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.9, "explanation": "The text mentions 'Juli 2021' which indicates that the service is related to maintenance or repair of something in June 2021.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Penjuanal CPO is a product of oil palm fruit.", "quantity": 5000}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "TBS period is a maintenance and repair service for oil palm trees.", "quantity": 31}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "TBS PERIODE 12 refers to a transportation service for palm oil products.", "quantity": 1}
+{"type": "service", "category": "Maintenance/Repair Service", "confidenceLevel": 0.8, "explanation": "The text mentions 'Kontrak' which is a service related to the processing of palm oil.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100.0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}

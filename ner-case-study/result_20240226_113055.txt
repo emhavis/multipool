@@ -1,0 +1,98 @@
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Materials and parts directly related to the processing of palm oil"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Subtype": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product directly related to the processing of palm oil."}, "Quantity": 0}
+{"TypeLvl1": "Service", "TypeLvl2": {"Maintenance/Repair Service": true, "ConfidenceLevel": 0.85, "Explanation": "The text mentions inspection and analysis of palm oil and its byproducts, indicating a service related to the processing and quality control of these products."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Oil palm fruit such as palm kernel, palm shell, etc."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Oil palm fruit such as palm kernel, palm shell, etc."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Materials and parts directly related to the processing of palm oil"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Oil palm fruit"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel and other parts of the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.85, "Explanation": "The text refers to the loading of crude palm oil (CPO) at a Tayan location on January 20, 2021."}, "Quantity": 3000301}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Palm kernel"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Pengiriman Kecambah Sawit refers to the transportation of palm oil products."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Materials and parts directly contributing to the processing of palm oil"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel"}, "Quantity": 1081230}
+{"Classification": {"TypeLvl1": "Service", "TypeLvl2": "Maintenance/Repair Service", "ConfidenceLevel": 0.78, "Explanation": "The text mentions 'TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1994', which suggests that the service is related to the maintenance and repair of oil palm trees.", "Quantity": 0}}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Oil palm fruit"}, "Quantity": 4907412}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Oil palm fruit"}, "Quantity": 5276210}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Oil palm fruit"}, "Quantity": 5701628}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.85, "Explanation": "Oil palm fruit such as palm kernel, palm shell, etc."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.85, "Explanation": "Oil palm fruit such as palm kernel, palm shell, etc."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.85, "Explanation": "Oil palm fruit such as palm kernel, palm shell, etc."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Palm kernel"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel"}, "Quantity": 7184896}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.85, "Explanation": "Palm kernel"}, "Quantity": 7637226}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel"}, "Quantity": 8113557}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Oil palm fruit"}, "Quantity": 8628950}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel"}, "Quantity": 8861121}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Palm kernel"}, "Quantity": 1700094}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Palm kernel"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Oil palm fruit"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Subtype": "Primary", "ConfidenceLevel": 0.95, "Explanation": "The text refers to a design and build project for a gas holder for a palm oil mill."}, "Quantity": 1}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel, palm shell, etc."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Palm kernel is a product of oil palm."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Material for oil palm processing"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Materials and parts directly related to the processing of palm oil."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Oil palm fruit and its byproducts"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Materials and parts directly related to the processing of palm oil"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel and other parts of the oil palm fruit"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Minyak Kelapa Sawit CPO is a type of palm oil product."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm oil is a type of edible oil derived from the fruit of the oil palm tree."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel and other parts of the oil palm fruit"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Palm kernel"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel and other parts of the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel and other parts of the oil palm fruit"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Materials and parts directly related to the processing of palm oil"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Penjualan Crude Palm Oil refers to the sale of crude palm oil, which is a primary product derived from the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Materials and parts directly related to the processing of palm oil"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Oil palm fruit such as palm kernel, palm shell, etc."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Pelunasan freight inti sawit refers to the transportation of palm oil products from one location to another, which falls under the category of primary materials."}, "Quantity": 100}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Pelunasan freight refers to the transportation of goods, in this case, oil palm products from Pangkal Balam to other locations."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Materials and parts directly related to the processing of palm oil."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a part of the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Materials and parts directly related to the processing of palm oil"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Pembayaran I freight inti sawit curah KendawanganLampung refers to the payment of freight for the transportation of oil palm products."}, "Quantity": 1}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel, palm shell, etc."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Ongkos angkut CPO refers to the transportation of crude palm oil (CPO) from one location to another."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Palm kernel is a product derived from the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Palm kernel and other parts of the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Crude Palm Oil is a primary product of the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a primary product of oil palm."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Pembayaran Uang Muka CPO Crude Palm Oil Kontrak No052XXX CC PO XX20XX is related to the processing of palm oil."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product that is part of the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Oil palm fruit such as palm kernel, palm shell, etc."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Palm kernel is part of the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Oil palm fruit such as palm kernel, palm shell, etc."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Palm kernel is a product derived from the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel and other parts of the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product of oil palm."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Ongkos Angkut is a product related to the oil palm industry."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.85, "Explanation": "Palm kernel"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel and other parts of the oil palm fruit"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Penjualan CPO refers to the sale of palm oil products."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel, palm shell, etc."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel and other parts of the oil palm fruit"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Oil palm fruit such as palm kernel, palm shell, etc."}, "Quantity": 4910}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit."}, "Quantity": 4964, "ConfidenceLevel": 1.0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Crude Palm Oil is a product derived from the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Subtype": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a part of the oil palm fruit."}, "Quantity": 5000}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Oil palm fruit and its byproducts"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Subtype": "Primary"}, "ConfidenceLevel": 0.85, "Explanation": "Palm kernel is a product of oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product of oil palm."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Minyak Sawit is a product derived from the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Palm kernel and other parts of the oil palm fruit"}, "Quantity": 5690}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Palm kernel and other parts of the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel and other parts of the oil palm fruit"}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Ongkos Angkut is a product related to the oil palm industry."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel, palm shell, etc."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Palm kernel and other parts of the oil palm fruit."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 1.0, "Explanation": "Palm kernel and other parts of the oil palm fruit"}, "Quantity": 7100}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.85, "Explanation": "Palm kernel is a primary product of oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit."}, "Quantity": 0}

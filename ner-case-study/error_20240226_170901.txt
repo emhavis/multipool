@@ -1,0 +1,8 @@
+Error decoding JSON for index 13 with data 'TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1994 1081230 KG': Expecting ',' delimiter: line 6 column 21 (char 121)
+Original text: {
+"type": "product",
+"category": "Primary",
+"confidenceLevel": 1.0,
+"explanation": "Oil palm fruit",
+"quantity": 1081230 kg
+}

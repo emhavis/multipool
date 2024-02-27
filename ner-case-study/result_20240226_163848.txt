@@ -1,0 +1,100 @@
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "RBD palm stearin is a primary product of oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary part of the oil palm fruit.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.8, "explanation": "The text mentions 'INSPEKSI MINYAK KELAPA SAWIT DAN PRODUK TURUNNYA', which indicates that the product is related to palm oil processing.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit is a primary product.", "quantity": 2999998}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.9, "explanation": "Discarging survey of CPO 3149193 MT at Kabil Batam on 2628102021 indicates that the product is related to transportation services.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Kalibrassi sounding tape is a tool used in the processing of palm oil.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 1999887}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.95, "explanation": "The text mentions the quantity of CPO being loaded, which is a product category.", "quantity": 2999998}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 3000}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 9481}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Pengiriman Kecambah Sawit is a product related to the oil palm industry.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary part of the oil palm fruit.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 25200}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 1081230}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 1190024}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 4907412}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 5276210}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 5701628}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.8, "explanation": "Oil palm fruit is a primary product.", "quantity": 12217767}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.8, "explanation": "Oil palm fruit is a primary product.", "quantity": 13269963}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.8, "explanation": "Oil palm fruit is a primary product of the oil palm plant.", "quantity": 13269963}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 13609592}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.95, "explanation": "Oil palm fruit is a primary product.", "quantity": 7184896}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.8, "explanation": "Oil palm fruit is a primary product.", "quantity": 7637226}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.9, "explanation": "Oil palm fruit is a primary product.", "quantity": 8113557}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 8628950}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.95, "explanation": "Oil palm fruit is a primary product of the oil palm tree.", "quantity": 8861121}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.9, "explanation": "Oil palm fruit is a primary product of the oil palm tree.", "quantity": 1458681}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 1700094}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 1990593}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 2367230}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.9, "explanation": "Pabrik Kelapa Sawit (PKS) is a palm oil mill that produces crude palm oil (CPO) through the processing of fresh fruit bunches (FFB). The design and build gas holder service provided by Termin 4 is an asset used in the production process.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm oil fruit", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.9, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 10662610}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.9, "explanation": "Painting is a product that directly contributes to the processing of palm oil.", "quantity": 18}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Mast Key Gemok Truk Cpo is a product related to oil palm fruit.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.95, "explanation": "Oil palm fruit is a primary product of the oil palm tree.", "quantity": 10}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Mast Key Gembook Truk Cpo is a product related to palm oil processing.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.9, "explanation": "Oil palm fruit", "quantity": 20}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Minyak Kelapa Sawit CPO is a product made from the oil of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.8, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "VITAMIN A PALMITATE is a primary product of oil palm fruit.", "quantity": 17}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 20}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm oil fruit", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm oil fruit", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Lubang tanam is a term used to describe the land area where oil palm trees are grown.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "The text refers to the transportation of palm oil products, which falls under the category of transport services.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 100}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "Pelunasan is a type of freight forwarding service that specializes in transporting oil palm products such as sawit and curah from Pangkal Balam to Lampung.", "quantity": 1}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "The text mentions 'freight' and 'inti sawit', which are related to transportation and logistics services.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.85, "explanation": "Ongkos angkut CPO refers to the transportation service for palm oil products.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Freight palm kernel is a product that directly contributes to the processing of palm oil.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 1630}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "CPO Crude Palm Oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Pembayaran Uang Muka CPOCrude Palm Oil Kontrak No052XXXCCPOXX20XX is a product related to the processing of palm oil.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil (CPO) is a primary product of the oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Pembayaran Uang Muka PKPalm Kernel NoKontrak 077XXXXXX20XX is a product of primary category as it is a part of the oil palm fruit such as palm kernel", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Pembayaran Uang Muka PKPalm Kernel NoKontrak 064XXCPKXX20XX is a product of oil palm fruit.", "quantity": 1}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "Ongkos Angkut is a transportation service provider for oil palm fruit.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Tanaman Kelapa Sawit Batch 202201R121 PO4200159439 is a palm oil fruit.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "BIAYA HANDLING CPO is a product related to the processing of palm oil.", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.95, "explanation": "CPO Crude Palm Oil Kontrak No117 is a product of palm oil fruit.", "quantity": 10000.0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Oil palm fruit", "quantity": 257}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100.0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude Palm Oil CPO is a primary product of the oil palm fruit.", "quantity": 4910}
+{"type": "product", "category": "Primary", "confidenceLevel": 0.9, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 4964}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 500}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of the oil palm fruit.", "quantity": 5000}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 5000}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude Palm Oil (CPO) is a primary product of the oil palm fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Minyak Sawit is a product of palm oil fruit.", "quantity": 100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Penjuanal 5690 KG CPO is a product of oil palm fruit.", "quantity": 5690}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 200}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel", "quantity": 0}
+{"type": "service", "category": "Transport service", "confidenceLevel": 0.8, "explanation": "Ongkos Angkut is a transportation service provider for oil palm fruit", "quantity": 1}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 100.0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Crude palm oil is a primary product of the oil palm fruit.", "quantity": 5}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Penjuanal 7100 kg CPO is a product of oil palm fruit.", "quantity": 7100}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}
+{"type": "product", "category": "Primary", "confidenceLevel": 1.0, "explanation": "Palm kernel is a primary product of oil palm fruit.", "quantity": 0}

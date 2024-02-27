@@ -1,0 +1,24 @@
+Error decoding JSON for index 7 with data 'Loading Survey of CPO 2999998 MT at Dumai on 0607122021': Expecting ',' delimiter: line 6 column 1 (char 165)
+Original text: {
+"TypeLvl1": "Product",
+"TypeLvl2": "Primary",
+"ConfidenceLevel": 1.0,
+"Explanation": "Loading survey of crude palm oil (CPO) 2999998 MT at Dumai on July 6, 2021."
+"Quantity": 2999998
+}
+Error decoding JSON for index 24 with data 'TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1997 8113557 KG': Expecting ',' delimiter: line 6 column 1 (char 231)
+Original text: {
+"TypeLvl1": "Product",
+"TypeLvl2": "Primary",
+"ConfidenceLevel": 0.95,
+"Explanation": "Tandan buah segar kelapa sawit tahun tanam 1997 8113557 kg refers to the quantity of fresh fruit bunches of oil palm harvested in year 1997."
+"Quantity": 0
+}
+Error decoding JSON for index 41 with data 'CPOCRUDE PALM OIL': Expecting ',' delimiter: line 6 column 1 (char 253)
+Original text: {
+"TypeLvl1": "Product",
+"TypeLvl2": "Primary",
+"ConfidenceLevel": 0.8,
+"Explanation": "CPOCRUDE is a type of palm oil that is derived from the fruit of the oil palm tree. It is a primary product that is directly related to the processing of palm oil."
+"Quantity": 0
+}

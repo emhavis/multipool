@@ -1,0 +1,1533 @@
+type,category,confidenceLevel,explanation,quantity
+product,Primary,1.0,"The text refers to a sample of palm stearin, which is a primary product derived from the oil palm fruit.",100
+product,Primary,1.0,Palm kernel is a part of the oil palm fruit and is used as an input material for palm oil processing.,1
+service,Maintenance/Repair Service,0.8,"The text mentions the inspection of palm oil and its byproducts, which falls under the category of maintenance or repair service.",1
+service,Transport service,0.95,The text mentions 'Discarging Survey of CPO' which indicates that the product is related to transportation and logistics services.,1
+service,Transport service,0.9,Discarging survey of CPO refers to the process of unloading the cargo from a ship.,1
+product,Primary,1.0,Kalibrassi sounding tape is a tool used in the processing of palm oil.,1
+service,Transport service,0.9,Loading Survey of CPKO 1999887 MT and CPO 2503809 MT at Dumai on 1516102021 is a transport service,0
+product,Primary,1.0,The text refers to the loading of crude palm oil (CPO) which is a primary product derived from the oil palm fruit.,2999998
+service,Transport service,0.8,Loading Survey of CPO 3000301 MT at Tayan on 1920102021 is a transportation service for palm oil products.,1
+product,Primary,1.0,"The text refers to a product related to palm oil processing, specifically a washing machine for CPO (Crude Palm Oil) ",1
+service,Transport service,0.8,Pengiriman Kecambah Sawit is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,1
+product,Primary,1.0,Oil palm fruit is a primary product.,25200
+product,Primary,1.0,Oil palm fruit is a primary product.,1081230
+product,Primary,1.0,Oil palm fruit is a primary product.,1190024
+product,Primary,1.0,Oil palm fruit is a primary product.,4907412
+product,Primary,1.0,Oil palm fruit is a primary product.,5276210
+product,Primary,1.0,Oil palm fruit is a primary product.,5701628
+product,Primary,0.8,Palm kernel is a primary part of the oil palm fruit.,12217767
+product,Primary,1.0,Oil palm fruit is a primary product.,13269963
+product,Primary,1.0,Oil palm fruit is a primary product.,13269963
+product,Primary,1.0,Palm oil fruit is a primary product of the palm oil industry.,13609592
+product,Primary,1.0,Oil palm fruit is a primary product.,7184896
+product,Primary,1.0,Oil palm fruit is a primary product.,7637226
+product,Primary,0.9,Oil palm fruit is a primary product.,8113557
+product,Primary,1.0,Oil palm fruit is a primary product.,8628950
+product,Primary,0.95,Oil palm fruit is a primary product.,8861121
+product,Primary,1.0,Oil palm fruit is a primary product.,1458681
+product,Primary,1.0,Oil palm fruit is a primary product.,1700094
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,1990593
+product,Primary,1.0,Oil palm fruit is a primary product.,2367230
+product,Primary,0.95,Pabrik Kelapa Sawit (PKS) is a palm oil mill that produces crude palm oil (CPO) through the processing of fresh fruit bunches (FFB). The design and build gas holder service provided by Termin 4 is an asset used in the production process.,7617
+product,Primary,1.0,Uang Muka II Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,50000.0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Painting is a product that directly contributes to the processing of palm oil.,18
+product,Primary,1.0,Mast Key Gembock Truk Cpo is a product of palm oil fruit.,1
+service,Maintenance/Repair Service,0.9,"The text mentions 'Analisa Minyak Sawit Oil Loss SCPR', which suggests that the product is related to oil loss processing service.",1
+product,Primary,1.0,Mast Key Gembock Truk Cpo is a product of palm oil fruit.,1
+product,Primary,1.0,Oil palm fruit,20
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Minyak Kelapa Sawit CPO is a product made from the oil of the oil palm fruit.,0
+product,Primary,1.0,Palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit and is used for processing palm oil.,100
+product,Primary,1.0,VITAMIN A PALMITATE is a primary part of the oil palm fruit.,17
+service,Maintenance/Repair Service,0.9,Lebih Kirim Toleransi atas SPJB No  088XXCPOXXX20XX is a maintenance and repair service for palm oil processing equipment.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,Tanaman Kelapa Sawit is a type of oil palm fruit which is the primary product of palm oil processing.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Lubang tanam is a term used to describe the land area where oil palm trees are grown.,6
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,1.0,"The text refers to the transportation of palm oil products, which falls under the category of transport services.",1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Oil palm fruit is a primary product of the oil palm plantation.,0
+service,Transport service,1.0,Pelunasan is a transport service for palm oil products,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Transport service,0.8,ONGKOS ANGKUT PALM KERNEL is a transportation service for palm kernel.,1
+service,Transport service,1.0,"The text refers to the payment of freight for palm oil transported from Kendawangan to Lampung, indicating a service related to transportation.",1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+service,Transport service,1.0,Ongkos angkut CPO refers to the transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,100
+service,Transport service,0.8,"The text mentions 'TBS PER 1630 JUN 2021 TT 2012', which suggests that it is related to transportation services.",1
+product,Primary,1.0,CPO Crude Palm Oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'Pembayaran Uang Muka' which is a payment service for palm oil contracts.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,"The text refers to a maintenance and repair service for palm kernel, which is a product of the oil palm fruit.",1
+product,Primary,1.0,Crude palm oil (CPO) is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'Pembayaran Uang Muka' which is a service related to the processing of palm oil.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,5000.0
+service,Maintenance/Repair Service,0.8,The text refers to the payment of a maintenance fee for a PKPalm kernel contract.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Tanaman Kelapa Sawit Batch 202201R121 PO4200159439 is a palm oil fruit which is a primary product.,1
+service,Transport service,0.8,BIAYA HANDLING CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,CPOCrude Palm Oil Kontrak No117 is a transportation contract for the delivery of crude palm oil.,1
+product,Primary,1.0,Oil palm fruit is a primary product.,257
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,4910
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,4964
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,5000
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,5000
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,500
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Minyak Sawit is a type of palm oil product.,0
+product,Primary,1.0,Penjuanal 5690 KG CPO is a product of palm oil fruit.,5690
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,5
+product,Primary,1.0,Penjuanal 7100 KG CPO is a product of palm oil fruit.,7100
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a part of the oil palm fruit and is directly used for processing palm oil.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product derived from the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a part of the oil palm fruit and is directly used in the processing of palm oil.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'periode' which is a service related to maintenance and repair of palm oil processing equipment.,1
+product,Primary,1.0,Penjualan CPO 015CPOCC is a product of palm oil fruit.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,"The text mentions 'CPO' which is an abbreviation for 'Certificate of Origin', and 'NO C01CASSTNXXXX' which is a unique identification number assigned to the product. This suggests that the product is related to import/export and customs clearance procedures, which falls under the category of maintenance/repair service.",1
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,0.8,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude Palm Oil CPO is a primary product of the oil palm fruit.,9990
+service,Maintenance/Repair Service,0.8,The text refers to a contract for maintenance and repair services for oil palm fruit.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'JUAL BELI' which is a service related to the maintenance and repair of oil palm trees.,1
+product,Primary,1.0,Crude Palm Oil CPO is a primary product of the oil palm fruit.,10000
+product,Primary,1.0,Crude Palm Oil CPO is a primary product of the oil palm fruit.,10000
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,"The text mentions 'CPO KONTRAK JUAL BELI NOC05XXXXX', which suggests that it is related to the maintenance or repair of a contract for palm oil processing.",1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a service provider for palm oil processing.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,108
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a maintenance and repair service for oil palm trees.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,5000.0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,BENIH KELAPA SAWITDAMIMAS is a type of oil palm fruit which is a primary product.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,5
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,5000
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS Periode' which is a maintenance and repair service for oil palm trees.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,BIAYA HANDLING CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,Pembayaran uang muka CPO Crude Palm Oil Kontrak No005PSJXXXXXX is a service related to the maintenance and repair of palm oil processing equipment.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,100
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.9,The product is a service related to the maintenance and repair of palm kernel processing machines.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a service provider for palm oil processing.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Maintenance/Repair Service,0.8,The text mentions 'Pembayaran Uang Muka' which is a payment service for palm oil contracts.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider for oil palm fruit,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider.,0
+service,Maintenance/Repair Service,0.8,"The text mentions 'TBS PERIODE 15 OKTOBER 2021', which suggests that the product is related to maintenance or repair services for palm oil processing equipment.",1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,Palm kernel oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,5000
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,2008
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.9,The text mentions 'Bulan Juni 2021' which indicates that the service is related to maintenance or repair of palm oil trees in June 2021.,1
+product,Primary,1.0,PENJUALAN CPO is a product of palm oil fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a service provider for palm oil processing.,1
+service,Maintenance/Repair Service,0.8,TBS PERIODE 12 is a maintenance and repair service for oil palm trees.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'Kontrak' which implies a service contract or agreement for maintenance and repair of palm kernel processing equipment.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,5000.0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,5000
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+service,Maintenance/Repair Service,0.8,The text refers to a maintenance and repair service for palm kernel oil processing equipment.,1
+service,Maintenance/Repair Service,0.8,The text refers to a maintenance and repair service for palm kernel processing machines.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,1000.0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text refers to a maintenance and repair service for palm kernel oil processing equipment.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Palm kernel is a part of the oil palm fruit and is directly used in the processing of palm oil.,0
+product,Primary,1.0,Palm kernel oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,TBS Periode 05 refers to a transportation service for palm oil products.,1
+product,Primary,1.0,Copra is a primary product of oil palm fruit.,5000
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+service,Maintenance/Repair Service,0.8,PKPalm Kernel is a service provider for palm kernel processing,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+service,Maintenance/Repair Service,0.9,PKPalm Kernel NoKontrak 082PMCPKV2021 is a maintenance and repair service for palm kernel processing machines.,1
+service,Transport service,0.8,TBS PERIODE 01 is a transportation service for palm oil products.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Maintenance/Repair Service,0.8,The text mentions 'Kontrak' which is a service related to the maintenance and repair of palm kernel processing machines.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a service provider for palm oil processing.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'Kontrak' which is a service related to the maintenance and repair of palm kernel processing machines.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text refers to a maintenance and repair service for palm kernel.,1
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,BENIH KELAPA SAWITDAMIMAS is a type of oil palm fruit which is the primary product of the industry.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,5000.0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+service,Maintenance/Repair Service,0.8,TBS PERIODE 12 refers to a maintenance or repair service for palm oil processing equipment.,1
+product,Primary,1.0,Bibit Kelapa Sawit is a type of oil palm fruit which is the primary input for palm oil processing.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'periode' which is a service related to maintenance and repair of palm oil processing equipment.,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut is a transportation service provider for oil palm fruit,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,0
+service,Transport service,0.8,TBS PERIODE 22 refers to the period of time during which transport services are provided.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+service,Maintenance/Repair Service,0.8,The text refers to a maintenance and repair service for palm kernel oil processing machines.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a service provider for palm oil processing.,1
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+service,Transport service,0.8,TBS PERIODE 11 refers to a transportation service for palm oil products.,12
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a service provider for maintenance and repair of oil palm trees.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.8,TBS PERIODE 09 refers to a transportation service for palm oil products.,10
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider.,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'Pembayaran Uang Muka' which is a payment service for palm oil contracts.,1
+service,Transport service,0.8,TBS PER 1631 DES 2021 TT 2011 is a transport service for palm oil products.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,5000.0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,150
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'periode' which is a service related to maintenance and repair of palm oil processing equipment.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,"PALM KERNEL CURAH is a part of the oil palm fruit such as palm kernel, palm shell, etc.",0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,TBS PERIODE 26 FEBRUARI 2021 refers to a maintenance or repair service for palm oil processing equipment.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a service provider for palm oil processing.,1
+service,Transport service,0.8,Inti Sawit is a transportation service provider for oil palm fruit.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider.,1
+service,Maintenance/Repair Service,0.8,TBS Periode 0607 Desember 2021 is a maintenance and repair service for palm oil processing machines and equipment.,1
+product,Primary,1.0,Crude palm oil is a product derived from the fruit of the oil palm tree.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,500
+service,Maintenance/Repair Service,0.8,TBS Periode 29 refers to a period of time for maintenance and repair services related to palm oil processing.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Uang Muka Palm kernel is a primary product of oil palm fruit.,100
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.9,The text mentions 'TBS PER' which is a transportation service provider.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text refers to the payment of a maintenance fee for a contract related to crude palm oil.,1
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+service,Transport service,0.8,"The text mentions 'TBS PERIODE 16' and 'OKTOBER 2021', which suggests that the product is related to transportation services.",1
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider for oil palm fruit.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,5000.0
+product,Primary,1.0,Copra is a primary product of oil palm fruit.,53
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Transport service,0.95,Ongkos Angkut CPO is a transportation service for oil palm fruit,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,CPO Crude Palm Oil Kontrak 001CPOIMTLILI2021 is a primary product of the oil palm fruit.,1
+service,Maintenance/Repair Service,0.9,"The text mentions the date and period of the maintenance service, indicating that it is related to maintenance or repair of something.",1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,500
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,2008
+product,Primary,1.0,"Uang Muka Crude Palm Oil is a product that falls under the category of Primary, which refers to materials directly related to the processing of palm oil such as palm kernel, palm shell, etc.",500
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,5000
+service,Maintenance/Repair Service,0.8,TBS PERIODE 25 MEI 2021 is a maintenance and repair service for oil palm trees.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,TBS PERIODE 02 refers to the second period of TBS (Tanah Bersih Sdn Bhd) which is a company that provides maintenance and repair services for oil palm trees.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,KLAIM MUTU CPO is a type of oil palm fruit.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Maintenance/Repair Service,0.8,PANJAR PALM KERNEL KONTRAK NO 012SJMSKJBPKII2021 is a maintenance or repair service contract for palm kernel processing equipment.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'Pembayaran Uang Muka' which is a payment service for palm oil processing contracts.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'Periode' which is a service related to maintenance and repair of oil palm trees.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,CPO Crude Palm Oil Kontrak 010CPOIMTLILIV2021 is a primary product of the oil palm fruit.,1
+service,Maintenance/Repair Service,0.8,"The text refers to a maintenance and repair service for palm kernel, which is a product of the oil palm fruit.",1
+product,Primary,1.0,Palm kernel oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Palm kernel oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'NoKontrak' which is a maintenance and repair service for oil palm fruit.,100
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,210
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and cosmetics.",0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Maintenance/Repair Service,0.8,"The text mentions the date and period of the maintenance service, indicating that it is related to the upkeep of a product or system.",1
+service,Transport service,0.9,TBS Periode 28 Juni 2021 refers to a transportation service for palm oil products.,1
+service,Maintenance/Repair Service,0.8,The text refers to the payment of a service contract for the maintenance and repair of crude palm oil processing equipment.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+service,Maintenance/Repair Service,0.9,TBS Periode 25 is a maintenance and repair service for oil palm trees.,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+service,Transport service,0.8,TBS PER 1631 DES 2021 is a transportation service for palm oil products.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Maintenance/Repair Service,0.8,Tuslaag TBS Div 6 is a maintenance and repair service for oil palm processing machines.,1
+service,Maintenance/Repair Service,0.8,The text refers to the payment of a service contract for the maintenance and repair of palm oil processing equipment.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Maintenance/Repair Service,0.8,Palm kernel kontrak is a service contract for maintenance and repair of palm oil processing machinery.,1
+service,Transport service,0.8,The text mentions 'Panjar Penjualan CPO' which is a transportation service for palm oil products.,1
+service,Transport service,0.8,TBS PERIODE 30 refers to a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut is a transportation service provider,1
+service,Maintenance/Repair Service,0.8,TBS Periode 04 refers to a maintenance or repair service for palm oil processing equipment.,1
+service,Maintenance/Repair Service,0.8,"The text mentions 'TBS Periode 23' and '27 Juli 2021', which suggests that the product is related to maintenance or repair services for palm oil processing equipment.",1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+service,Transport Service,0.8,Ongkos Angkut CPO is a transport service provider for oil palm fruit,1
+service,Maintenance/Repair Service,0.8,The text mentions 'Periode' which is a service related to maintenance and repair of palm oil processing equipment.,1
+product,Primary,1.0,Pembelian Palm Kernel PK is a product of palm oil fruit.,100
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,0
+service,Transport Service,0.85,Ongkos Angkut CPO is a transport service provider for oil palm fruit,1
+service,Transport service,0.8,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Uang muka crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,95
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,95
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,16000.0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,95
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,98
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,98
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,98
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text refers to a service contract for the maintenance and repair of palm kernel processing equipment.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",90000
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,Palm kernel is a part of the oil palm fruit and is directly used for processing palm oil.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Maintenance/Repair Service,0.8,The text refers to a maintenance and repair service for palm kernel oil processing equipment.,1
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,TBS PERIODE 23 refers to a maintenance or repair service for palm oil processing equipment.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Angkutan CPO (Oil Palm Fruit Transport) is a service that provides transportation of oil palm fruit from one location to another.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,PANJAR PALM KERNEL KONTRAK NO 010SJMSKJBPKII2021 is a maintenance and repair service contract for palm kernel processing.,1
+service,Maintenance/Repair Service,0.8,PANJAR PALM KERNEL KONTRAK NO 098SJMSKJBPKXI2021 is a maintenance or repair service for palm kernel processing machines.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Penjuanal CPO is a product of palm oil fruit.,136
+service,Transport service,0.8,Tuslaag TBS Div 1 is a transportation service provider.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Maintenance/Repair Service,0.8,The text mentions 'PKPalm Kernel' which is a service related to palm oil processing.,1
+service,Maintenance/Repair Service,0.8,"The text refers to a maintenance and repair service for palm kernel, which is a product of the oil palm fruit.",1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,CPO Crude Palm Oil Kontrak 037CPOIMTLILIX2021 is a product of palm oil fruit.,1
+product,Primary,1.0,Oil palm fruit is a primary product.,280
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider for oil palm fruit.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS Periode' which is a common term used in the maintenance and repair services industry.,1
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,"CPO Crude Palm Oil is a product that falls under the category of Primary, as it is directly related to the processing of palm oil.",100
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,95000
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.8,Palm kernel is a raw material for palm oil processing and transportation is required to deliver it to the processing plant.,95000
+service,Maintenance/Repair Service,0.8,The text refers to the payment of a service contract for palm oil processing.,1
+service,Maintenance/Repair Service,0.9,The text mentions 'Pembayaran Uang Muka' which is a payment service for palm oil processing contracts.,1
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,100
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,INTI KELAPA SAWIT is a type of oil palm fruit which is a primary product.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,PENJUALAN CPO refers to the sale of primary products such as palm oil fruit.,20
+product,Primary,1.0,Oil palm fruit is a primary product.,0
+service,Transport service,0.8,The text mentions 'Panjar Penjualan CPO' which is a transportation service for palm oil products.,1
+service,Transport service,0.8,The text mentions 'Panjar Penjualan CPO' which is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.8,The text mentions 'Panjar Penjualan CPO' which is a transportation service for palm oil products.,1
+service,Maintenance/Repair Service,0.8,"The text mentions 'Penjualan' which means sale in Indonesian language, and it also includes the words 'CPO' which is an abbreviation for Crude Palm Oil, indicating that the product being sold is related to palm oil processing.",1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.8,The text mentions 'Panjar Penjualan CPO' which is a transportation service for palm oil products.,1
+service,Maintenance/Repair Service,0.8,"The text mentions 'Penjualan' which means sale in Indonesian, and 'CPOPNNIIMTXI2021' which is a specific date and time related to the maintenance/repair service",1
+service,Transport service,0.8,"The text mentions 'Panjar Penjualan CPO', which is a transportation service for palm oil products.",1
+service,Maintenance/Repair Service,0.8,The text mentions 'Penjualan' which is a service related to the sale of palm oil products.,1
+service,Transport service,0.8,The text mentions 'Panjar Penjualan CPO' which is a transportation service for palm oil products.,1
+service,Transport service,0.8,The text refers to the sale of crude palm oil (CPO) which is a service.,201
+service,Transport service,0.8,"The text refers to a sale of palm oil products, indicating that the product is related to transportation of goods.",262
+product,Primary,1.0,Oil palm fruit,265
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.9,The text mentions 'Panjar Penjualan CPO' which is a service for selling palm oil products.,1
+service,Transport service,0.8,The text mentions 'Panjar Penjualan CPO' which is a transportation service for palm oil products.,1
+product,Primary,1.0,Uang muka PK PALM KERNEL is a product of palm kernel.,98
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for oil palm fruit,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,TBS Periode 19 Juli 2021 refers to a maintenance or repair service for palm oil processing machines or equipment.,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Oil palm fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,Minyak Sawit is a type of palm oil product.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,Minyak Sawit is a type of oil extracted from the fruit of the oil palm tree.,0
+service,Maintenance/Repair Service,0.8,TBS Periode 2730 Oktober 2021 refers to a maintenance or repair service for palm oil processing machines or equipment.,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,CPO Crude Palm Oil is a product derived from the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,CPO Crude Palm Oil is a product derived from the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a part of the oil palm fruit and is used directly in the processing of palm oil.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Minyak Sawit is a type of palm oil product.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,CPO Crude Palm Oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude palm oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Pembelian Crude Palm Oil CPO is a product as it is a raw material of palm oil fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,CPO Crude Palm Oil is a product made from the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"CPO Crude Palm Oil is a product that falls under the category of Primary, as it is directly related to the processing of palm oil.",1000.0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,CPO crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,PENJUALAN CPO 003CPOKSPSIPI2021 is a product of palm oil fruit.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'PENJUALAN CPO' which is a service related to the maintenance and repair of palm oil processing equipment.,1
+product,Primary,1.0,PENJUALAN CPO is a product of oil palm fruit.,1
+product,Primary,1.0,Penjuanal CPO is a product of palm oil fruit.,0
+product,Primary,1.0,Penjuanal CPO is a product of palm oil fruit.,81
+product,Primary,1.0,Penjuanal CPO is a product of palm oil fruit.,0
+product,Primary,1.0,Penjuanal CPO is a product of palm oil fruit.,143
+product,Primary,1.0,Oil palm fruit is a primary product of the oil palm tree.,0
+service,Maintenance/Repair Service,0.9,"The text mentions 'penjualan' which means sale in Bahasa Indonesia, and 'CPOP' which is an abbreviation for Crude Palm Oil (CPO), indicating that the product being sold is related to palm oil processing.",1
+product,Primary,1.0,"Penjualan CPO refers to the sale of crude palm oil, which is a primary product derived from the oil palm fruit.",5000 kg
+product,Primary,1.0,"The text refers to the sale of crude palm oil (CPO), which is a primary product derived from the oil palm fruit.",0
+product,Primary,1.0,"The text refers to the sale of palm oil, which is a primary product of the oil palm fruit.",0
+product,Primary,1.0,Oil palm fruit is a primary product.,0
+product,Primary,1.0,Oil palm fruit is a primary product.,0
+product,Primary,1.0,Oil palm fruit is a primary product,0
+product,Primary,1.0,"The text refers to the sale of crude palm oil (CPO), which is a primary product derived from the oil palm fruit.",0
+product,Primary,1.0,Oil palm fruit is a primary product.,0
+product,Primary,1.0,Oil palm fruit is a primary product.,90
+product,Primary,1.0,"Penjualan CPO refers to the sale of crude palm oil, which is a primary product derived from the oil palm fruit.",112
+product,Primary,1.0,Oil palm fruit is a primary product,143
+product,Primary,1.0,"Penjualan CPO refers to the sale of crude palm oil, which is a primary product derived from the oil palm fruit.",190
+product,Primary,1.0,"The text mentions the sale of crude palm oil (CPO), which is a primary product derived from the oil palm fruit.",0
+product,Primary,1.0,Oil palm fruit is a primary product.,202
+product,Primary,1.0,Oil palm fruit is a primary product.,207
+product,Primary,1.0,Oil palm fruit is a primary product.,230
+product,Primary,1.0,"The text refers to the sale of crude palm oil (CPO), which is a primary product derived from the oil palm fruit.",235
+product,Primary,1.0,"The text refers to the sale of crude palm oil (CPO), which is a primary product derived from the oil palm fruit.",241
+product,Primary,1.0,"The text refers to the sale of crude palm oil (CPO), which is a primary product derived from the oil palm fruit.",261
+product,Primary,1.0,"The text refers to the sale of crude palm oil (CPO), which is a primary product derived from the oil palm fruit.",266
+product,Primary,1.0,Oil palm fruit is a primary product.,271
+product,Primary,1.0,Oil palm fruit is a primary product of the oil palm tree.,281
+product,Primary,1.0,"Penjualan CPO refers to the sale of crude palm oil, which is a primary product derived from the oil palm fruit.",297
+product,Primary,1.0,"Penjualan CPO refers to the sale of crude palm oil, which is a primary product derived from the oil palm fruit.",318
+product,Primary,1.0,The text mentions the quantity of CPO (320 SRM CP OP KU XI 2021) which is a primary product of oil palm fruit.,320
+product,Primary,1.0,Oil palm fruit is a primary product.,330
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product derived from the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product derived from the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product derived from the oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Transport service,0.95,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for oil palm fruit.,1
+product,Primary,1.0,Palm kernel is a part of the oil palm fruit and is directly used for processing palm oil.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos angkut CPO refers to the transportation service for palm oil products.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS Periode' which is a service related to the maintenance and repair of palm oil processing machines.,1
+service,Transport service,0.8,Ongkos Angkut is a transportation service provider for oil palm fruit.,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,Ongkos Angkut is a transportation service provider for oil palm fruit,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,Penjuanal CPO is a product of palm oil fruit.,136
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Transport service,0.95,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Maintenance/Repair Service,0.9,The text mentions 'TBS Periode' which is a service related to the maintenance and repair of oil palm trees.,1
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,20
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos angkut CPO refers to the transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,74
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Oil palm fruit is a primary product.,125
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'NoKontrak' which is a maintenance and repair service for oil palm trees.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,95
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,95
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,95
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,95
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,10000.0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,123456789
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as food, animal feed, and biofuel.",0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,"Palm kernel pelunasan is a service that involves the processing of palm kernel into various products such as palm kernel oil, palm kernel meal, and other derivatives.",1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Maintenance/Repair Service,0.8,PKPalm Kernel NoKontrak is a maintenance and repair service for palm kernel processing machines.,179
+product,Primary,1.0,Palm kernel is a part of the oil palm fruit and is directly used in the processing of palm oil.,0
+service,Maintenance/Repair Service,0.8,The text refers to the payment of a maintenance fee for a contract related to crude palm oil processing.,1
+service,Transport service,0.9,TBS PERIODE 26 refers to a transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit and is directly used for processing palm oil.,0
+service,Maintenance/Repair Service,0.8,TBS PERIODE 01 SD 02 FEBRUARI 2021 refers to a maintenance or repair service for palm oil processing equipment.,1
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS Periode' which is a service related to the maintenance and repair of oil palm trees.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS Periode' which is a service related to palm oil processing.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS Periode' which is a service related to palm oil processing.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.9,Transport of CPO via Sungai,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.95,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Maintenance/Repair Service,0.9,The text mentions 'TBS Periode' which is a service related to palm oil processing.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider.,1
+product,Primary,1.0,Palm kernel oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS Periode' which is a service related to the maintenance and repair of palm oil processing machines.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider.,1
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'JUAL BELI' which is a service related to the maintenance and repair of oil palm trees.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'JUAL BELI' which is a service related to the maintenance and repair of oil palm trees.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil (CPO) is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos angkut CPO refers to the transportation of crude palm oil (CPO),1
+product,Primary,1.0,Oil palm fruit is a primary product.,0
+product,Primary,1.0,Penjuanal CPO is a product of palm oil fruit.,135
+service,Transport service,0.8,Penyesuaian ongkos angkut CPO refers to the transportation cost of crude palm oil.,100
+service,Transport service,0.8,"The text refers to the cost of transporting crude palm oil (CPO), indicating that it is a service related to the processing and transportation of palm oil.",1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.95,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+service,Transport Service,0.8,Ongkos Angkut CPO is a transportation service for oil palm fruit.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"CPO Crude Palm Oil is a product that falls under the category of Primary, as it is a raw material directly obtained from the oil palm fruit.",100.0
+product,Primary,1.0,Crude palm oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm kernel is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos angkut CPO refers to the transportation of crude palm oil (CPO) which is a service provided by a company.,0
+service,Transport service,1.0,Ongkos angkut CPO refers to the transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a primary part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Penjuanal CPO refers to the sale of crude palm oil.,5000.0
+product,Primary,1.0,PENJUALAN CPO is a product of palm oil fruit.,0
+product,Primary,1.0,Oil palm fruit is a primary product.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,"The text mentions 'penjualan' which means sale in Bahasa Indonesia, and 'CPOP' which is an abbreviation for Crude Palm Oil, indicating that the product being sold is related to palm oil processing.",1
+service,Transport service,1.0,Ongkos angkut CPO refers to the transportation service for palm oil.,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,"The text refers to the cost of transporting crude palm oil (CPO), indicating that it is a service related to the processing of palm oil.",1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Maintenance/Repair Service,0.9,The text mentions 'Pembayaran Uang Muka' which is a payment service for palm oil processing contracts.,1
+service,Transport service,1.0,Transport of CPO via Sungai,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,2350
+service,Maintenance/Repair Service,0.8,The text mentions 'Pembayaran Uang Muka' which is a payment service for palm oil processing contracts.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS Periode' which is a service related to palm oil processing.,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,CPO Crude Palm Oil is a product derived from the oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider for oil palm fruit.,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider.,1
+service,Maintenance/Repair Service,0.8,Tuslaag TBS Div 4 is a maintenance and repair service for oil palm processing machines.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit and is used for processing palm oil.,85
+product,Primary,1.0,PANJAR CRUDE PALM OIL KONTRAK NO 004SJMSKJBCPOI2021 is a primary product of oil palm fruit.,1
+product,Primary,1.0,PANJAR CRUDE PALM OIL is a product of palm oil fruit.,126
+product,Primary,1.0,PANJAR CRUDE PALM OIL is a product of palm oil fruit.,149
+product,Primary,1.0,PANJAR CRUDE PALM OIL is a product of palm oil fruit.,257
+service,Maintenance/Repair Service,0.9,PANJAR PALM KERNEL KONTRAK NO 058SJMSKJBPKVII2021 is a maintenance and repair service contract for palm kernel processing equipment.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Management Service,0.8,TBS Periode 10 Mei 2021 refers to the management of palm oil processing services.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for oil palm fruit.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.9,The text mentions 'TBS Periode 28' which is a service related to the maintenance and repair of palm oil processing machines.,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,106
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and cosmetics.",0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS Periode' which is a service related to palm oil processing.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil CPO is a primary product of the oil palm fruit.,190000
+product,Primary,1.0,Crude Palm Oil CPO is a primary product of the oil palm fruit.,190000
+product,Primary,1.0,Crude Palm Oil CPO is a primary product of the oil palm fruit.,190000
+service,Maintenance/Repair Service,0.8,The text refers to the payment of a maintenance fee for a contract related to palm oil processing.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'Pembayaran Uang Muka' which is a service related to the maintenance and repair of palm kernel.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'Pembayaran Uang Muka' which is a service related to the processing of palm kernel.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSBUMI SAWIT PERMAI KE BULKING BOOM BARU DO  2750CPO275021C005,2750
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.9,The text refers to a transportation service for palm oil from PKSPangkalan Panji Mill to an unknown destination.,2450
+product,Primary,1.0,ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSBUMI SAWIT PERMAI KE BULKING BOOM BARU DO  2450CPO275021C001 is a product of palm oil fruit,2450
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.9,"Tagihan Ongkos Angkut CPO Biaya Pengangkutan Crude Palm Oil CPO No Kontrak 045ANJTNCPO0621 is related to the transportation of crude palm oil, which falls under the category of transport service.",1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+service,Maintenance/Repair Service,0.8,The text mentions 'PANJAR PENJUALAN CPO' which indicates a service related to the purchase of palm oil.,1
+product,Primary,1.0,Oil palm fruit is a primary product.,104
+service,Maintenance/Repair Service,0.8,Panjar Penjualan CPO is a service that provides maintenance and repair services for oil palm processing machines and equipment.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'Penjualan CPO' which is a service related to the processing of palm oil.,1
+service,Transport service,0.8,The text mentions 'Panjar Penjualan CPO' which is a transportation service for palm oil products.,1
+product,Primary,1.0,Oil palm fruit is a primary product.,179
+service,Maintenance/Repair Service,0.8,"The text mentions 'Penjualan' which means sale in Indonesian, and 'CPO' which is a type of palm oil, indicating that the service provided is related to the sale of palm oil products.",1
+service,Maintenance/Repair Service,0.8,"The text mentions 'Penjualan' which means sale in Indonesian language, and it also mentions the product as 'CPO', which is a type of palm oil. Therefore, it can be classified as a service related to the maintenance or repair of palm oil processing equipment.",1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,306
+service,Transport service,0.9,The text mentions 'Panjar Penjualan CPO' which is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,Ongkos angkut cpo is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.95,Ongkos Angkut CPO is a transportation service for oil palm fruit.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Pelunasan 20 is a transportation service for palm oil products.,20
+product,Primary,1.0,Biaya Pengangkutan Crude Palm Oil CPO No DO 022DOANJIMTCPO1121 is a product of palm oil fruit.,1
+service,Transport service,0.8,"Tagihan Ongkos Angkut CPO Biaya Pengangkutan Crude Palm Oil CPO No Kontrak 036ANJTNCPO0521 is related to the transportation of crude palm oil, which falls under the category of transport service.",1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,1.0,Ongkos angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.95,"Tagihan Ongkos Angkut CPO Biaya Pengangkutan Crude Palm Oil CPO No Kontrak 036ANJIMTCPO1120 Tanggal 10 Nopember 2020 is related to transportation of crude palm oil, hence it falls under the category of transport service",1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Angkutan CPO (Oil Palm Fruit Transport) is a service that provides transportation of oil palm fruit from one location to another.,1
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,INTI KELAPA SAWIT is a type of oil palm fruit which is the primary product of palm oil processing.,1
+product,Primary,1.0,JASA ANGKUT CRUDE PALM OIL is a product category of Primary,100
+product,Primary,1.0,Palm kernel is a part of the oil palm fruit and is directly used in the processing of palm oil.,0
+product,Primary,1.0,PENJUALAN CPO is a product of palm oil fruit.,0
+product,Primary,1.0,Oil palm fruit is a primary product,0
+product,Primary,1.0,PENJUALAN CPO is a product of palm oil fruit.,0
+service,Maintenance/Repair Service,0.8,The product is related to maintenance and repair services for palm kernel oil processing machines.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'PKPalm Kernel' which is a service related to palm oil processing.,1
+service,Maintenance/Repair Service,0.8,The product is related to maintenance and repair services for oil palm processing equipment.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Oil palm fruit is a primary product.,0
+product,Primary,1.0,Oil palm fruit is a primary product.,102
+product,Primary,1.0,"The text refers to the sale of crude palm oil (CPO), which is a primary product derived from the oil palm fruit.",125
+product,Primary,1.0,"Penjualan CPO refers to the sale of crude palm oil, which is a primary product derived from the oil palm fruit.",153
+product,Primary,1.0,Oil palm fruit is a primary product.,302
+service,Transport service,0.9,Uang Muka is a transportation service for palm oil products.,80
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,"Angkutan CPO Biaya Pengangkutan Crude Palm Oil CPO No Kontrak 012ANJIMTCPO0421 is related to the transportation of crude palm oil, which falls under the category of transport service.",3000 MT
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,"Tagihan Ongkos Angkut CPO Biaya Pengangkutan Crude Palm Oil CPO No Kontrak 016ANJIMTCPO0621 is related to the transportation of crude palm oil, which falls under the category of transport service.",5000 MT
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut is a transportation service provider for oil palm fruit.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Maintenance/Repair Service,0.8,Tuslaag TBS Div 4 is a maintenance and repair service for oil palm processing machines.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,0.8,TBS PERIODE 03 SD 04 FEBRUARI 2021 refers to a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,PANJAR CRUDE PALM OIL is a product of palm oil fruit.,1
+product,Primary,1.0,PANJAR CRUDE PALM OIL is a product of palm oil fruit.,160
+product,Primary,1.0,PANJAR CRUDE PALM OIL is a product of palm oil fruit.,162
+product,Primary,1.0,PANJAR CRUDE PALM OIL is a product of palm oil fruit.,1
+product,Primary,1.0,PANJAR CRUDE PALM OIL is a product of palm oil fruit.,1
+product,Primary,1.0,PANJAR CRUDE PALM OIL is a product of palm oil fruit.,1
+service,Transport Service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Palm kernel oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a maintenance and repair service for oil palm fruit.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'CPO KONTRAK' which is a service contract for maintenance and repair of oil palm trees.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'JUAL BELI' which is a service related to the maintenance and repair of oil palm trees.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'PANJAR PENJUALAN CPO' which indicates a service related to the purchase of palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.95,Ongkos Angkut CPO is a transportation service for oil palm fruit.,1
+service,Transport service,1.0,JASA ANGKUT CPO DARI PABRIK MEGANUSA INTISAWIT  PKS BUMIPALMA KE BULKING RENGAT is a transport service for palm oil products,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crud palm oil is a product derived from the fruit of the oil palm tree.,0
+service,Maintenance/Repair Service,0.8,TBS PERIODE 10 SD 14 FEBRUARI 2021 is related to maintenance and repair services for palm oil processing equipment.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,JASA ANGKUT CPO DARI PABRIK MEGANUSA INTISAWIT PKS BUMIPALMA KE BULKING RENGAT is a transportation service for palm oil products from the factory to the bulk storage area.,1
+product,Primary,1.0,Crude Palm Oil is a product derived from the oil palm fruit and is used as raw material for various industries.,0
+service,Transport service,1.0,Ongkos angkut CPO refers to the transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+product,Primary,1.0,Palm oil fruit,1
+service,Transport service,1.0,Ongkos angkut CPO refers to the transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,PENJUALAN 250000 KG CPO is a product of palm oil fruit.,250000
+product,Primary,1.0,Uang muka crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Uang Muka CPO 90 atas SPJB No  037MMALCBUCPOV2021 is a product of palm oil fruit.,90
+service,Transport service,1.0,Ongkos angkut CPO refers to the transportation service for palm oil products.,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+service,Maintenance/Repair Service,0.8,Tuslaag TBS Div 1 is a maintenance and repair service for oil palm processing machines.,1
+product,Primary,1.0,Oil palm fruit,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Oil palm fruit,1
+product,Primary,1.0,Crude palm oil is a product derived from the fruit of the oil palm tree.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'JUAL BELI' which is a service related to the maintenance and repair of oil palm trees.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil CPO is a primary product of the oil palm fruit.,285000
+product,Primary,1.0,PANJAR CRUDE PALM OIL is a product of palm oil fruit.,123456789
+product,Primary,1.0,PANJAR CRUDE PALM OIL is a product of palm oil fruit.,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,TBS is a transportation service provider for oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,2450
+product,Primary,1.0,ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSMUARA KANDIS MILL KE BULKING BOOM BARU DO  2850CPO285021C051,2850
+service,Transport service,0.8,Angkutan crude palm oil (CPO) is a service that involves transporting the raw material from one location to another.,120
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Maintenance/Repair Service,0.8,The text mentions 'PANJAR PENJUALAN CPO' which is a service related to the maintenance and repair of palm oil processing equipment.,1
+service,Transport service,0.9,The text mentions 'Panjar Penjualan CPO' which is a transportation service for palm oil products.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+product,Primary,1.0,Tuslaag CPO is a type of palm oil product.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product derived from the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a part of the oil palm fruit and is directly used for processing palm oil.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+service,Transport service,0.9,"Tagihan Ongkos Angkut CPO Biaya Pengangkutan Crude Palm Oil CPO No Kontrak 013ANJTNCPO0321 is related to the transportation of crude palm oil, which falls under the category of transport service.",1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Pelunasan palm kernel is a primary product of oil palm fruit.,500
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Biaya Pengangkutan Crude Palm Oil CPO No DO 073DOANJTNCPO0921 is a product of palm oil fruit.,1
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,1000.0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Pelunasan palm kernel is a primary product of oil palm fruit.,50
+product,Primary,1.0,"The text refers to a purchase order for palm oil, which is a primary product of the oil palm fruit.",5000
+service,Transport service,0.8,"The text mentions 'Penjualan Palm Kernel', which indicates the sale of palm kernel, a service related to palm oil processing.",300
+product,Primary,1.0,UAng Muka CPO is a type of oil palm fruit.,0
+service,Transport service,0.95,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Biaya Pengangkutan Crude Palm Oil CPO No DO 087DOANJTNCPO1021 is a product of palm oil fruit.,1
+service,Transport service,1.0,Freight is a service that involves transporting goods from one location to another.,0
+service,Transport service,0.9,Transport of CPO via Sungai,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport Service,0.8,Ongkos Angkut CPO is a transport service provider for oil palm fruit.,1
+service,Transport service,0.9,Transport of CPO via Sungai,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.9,JASA ANGKUT CPO DARI PABRIK MEGANUSA INTISAWIT  PKS BUMIPALMA KE BULKING RENGAT is a transport service for palm oil products from the factory to the bulk storage area,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.95,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.9,"Tagihan Ongkos Angkut CPO Biaya Pengangkutan Crude Palm Oil CPO No Kontrak 076ANJTNCPO1120 is related to the transportation of crude palm oil, which falls under the category of transport service.",1
+service,Transport service,0.8,JASA ANGKUT CPO DARI PABRIK BUMIPALMA LESTARIPERSADA KE BULKING RENGAT is a transportation service for palm oil products from the factory to the bulk storage area,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+service,Transport service,0.9,"Tagihan Ongkos Angkut CPO Biaya Pengangkutan Crude Palm Oil CPO No Kontrak 057ANJTNCPO0821 is related to the transportation of crude palm oil, which falls under the category of transport service.",3000
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,Tagihan Ongkos Angkut CPO Biaya Pengangkutan Crude Palm Oil CPO No Kontrak 074ANJTNCPO1120 Tanggal 19 Nopember 2020 is related to transportation service for palm oil,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.9,"Tagihan Ongkos Angkut CPO Biaya Pengangkutan Crude Palm Oil CPO No Kontrak 058ANJTNCPO0821 is related to the transportation of crude palm oil, which falls under the category of transport service.",1
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.9,"Tagihan Ongkos Angkut CPO Biaya Pengangkutan Crude Palm Oil CPO No Kontrak 088ANJTNCPO1220 is related to the transportation of crude palm oil, which falls under the category of transport service.",5000
+product,Primary,1.0,Palm kernel is a primary product of the oil palm fruit.,2350
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSPANGKALAN PANJI  MILL KE BULKING BOOM BARU DO  2450CPO245021C002,2450
+service,Transport service,0.9,JASA ANGKUT CPO DARI PABRIK MEGANUSA INTISAWIT KE PKS BUMIPALMA KE BULKING RENGAT is a service that provides transportation of crude palm oil (CPO) from the factory Meganusa Intisawit to the processing facility Bulking Rengat.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSMUARA KANDIS MILL KE BULKING BOOM BARU DO  2850CPO285021C026,2850
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,"Tagihan Ongkos Angkut CPO Biaya Pengangkutan Crude Palm Oil CPO No Kontrak 026ANJTNCPO0421 is related to the transportation of crude palm oil, which falls under the category of transport service.",1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.9,JASA ANGKUT CPO DARI PABRIK MEGANUSA INTISAWIT  PKS BUMIPALMA KE BULKING RENGAT is a transport service for palm oil from the factory Meganusa Intisawit to Bulking Rengat,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider,1
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider for oil palm fruit.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,UANG MUKA CRUDE PALM OIL CPO is a primary product of oil palm fruit.,0
+service,Transport service,0.95,Ongkos Angkut CPO is a transportation service for oil palm fruit.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS Periode' which is a service related to the maintenance and repair of palm oil processing machines.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+service,Transport service,0.95,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.85,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,0.8,TBS PERIODE 10 FEBRUARI 2021 refers to a transportation service for palm oil products.,1
+service,Transport service,0.8,TBS PERIODE 11 MARET 2021 is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm oil fruit is a primary product of oil palm tree.,100
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,JASA ANGKUT CPO DARI PABRIK BUMIPALMA LESTARAIPERSADA KE BULKING RENGAT is a transportation service for palm oil from the factory to the bulk storage area.,1
+product,Primary,1.0,UANG MUKA ATAS CPO is a product of palm oil fruit.,0
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut is a transportation service provider,1
+service,Transport service,0.8,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"The text refers to palm oil, which is a primary product of the oil palm fruit.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.9,Transport of CPO via Sungai,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.8,Panjar Penjualan CPO is a transportation service for palm oil products.,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for oil palm fruit.,1
+service,Transport service,0.8,Ongkos Angkut is a transportation service provider,1
+service,Transport service,0.8,Ongkos Angkut is a transportation service provider for oil palm fruit.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for oil palm fruit,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a service provider for palm oil processing.,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a product derived from the fruit of the oil palm tree.,0
+product,Primary,1.0,Palm oil fruit,2450
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider.,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.85,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+product,Primary,1.0,Premium quality oil palm fruit,2250
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a part of the oil palm fruit and is directly used in the processing of palm oil.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Uang Muka CPO 80 is a type of palm oil fruit.,80
+product,Primary,1.0,Uang Muka CPO 90 atas SPJB No  099MMALCBUCPOXI2021 is a palm oil product.,1
+product,Primary,1.0,ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSMUARA KANDIS MILL KE BULKING BOOM BARU DO  2850CPO285021C058,2850
+service,Transport service,0.8,"The text refers to the cost of transporting crude palm oil (CPO), indicating that it is a service related to the processing and transportation of palm oil.",1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,"Oil palm fruit such as palm kernel, palm shell, etc.",0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,"The text refers to the cost of transporting crude palm oil (CPO), indicating that it is a service related to the processing and transportation of palm oil.",1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,"Down Payment 90% of total sales of Crude Palm Oil (CPO) from the contract amount of 500,000 kg",500000
+product,Primary,1.0,"The text refers to the purchase of palm kernel, which is a primary part of the oil palm fruit.",112
+service,Transport service,1.0,Transport of CPO via Sungai,7
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport Service,0.95,Ongkos Angkut CPO is a transport service provider for oil palm fruit.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a service provider for palm oil processing.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a maintenance and repair service for oil palm trees.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Palm kernel oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,UANG MUKA ATAS CPO is a product of palm oil fruit.,1
+service,Transport service,1.0,JASA ANGKUT CPO DARI PABRIK BUMIPALMA LESTARIPERSADA KE BULKING RENGAT is a transportation service for palm oil from the factory to the bulk storage area,1
+service,Transport service,1.0,JASA ANGKUT CPO DARI PABRIK MEGANUSA INTISAWIT KE BULKING RENGAT is a transportation service for palm oil from the factory Meganusa Intisawit to the bulk storage location.,1
+service,Transport service,0.95,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSMUARA KANDIS MILL KE BULKING BOOM BARU DO  2850CPO285021C041,2850
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.9,The text refers to a transport service for palm oil from PKSPangkalan Panji Mill to an unknown destination.,2450
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"The text refers to a quantity of crude palm oil (CPO) being transported from PKSPangkalan Panji Mill, indicating it is a product.",2450
+product,Primary,1.0,Pelunasan 20 Crude Palm Oil Kontrak No PAJTNCPO047IV2021 is a product of palm oil.,9100075433
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.9,Penyesuaian ongkos angkut CPO refers to the transportation cost of crude palm oil.,100
+product,Primary,1.0,"ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSMUARA KANDIS MILL KE BULKING BOOM BARU DO  2451CPO285021C014 is a product of primary category, which are the parts of the oil palm fruit such as palm kernel, palm shell, etc.",2451
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSMUARA KANDIS MILL KE BULKING BOOM BARU DO  2451CPO285021C010 is a product of primary category, which is the part of the oil palm fruit such as palm kernel, palm shell, etc.",2451
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Pelunasan CPO Crude Palm Oil Kontrak No 0054SMKTNGCPOII2021 is a product of palm oil fruit.,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,ANGKUTAN CRUDE PALM OIL is a product of palm oil fruit.,100
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product derived from the oil palm fruit.,0
+product,Primary,1.0,Palm kernel oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.9,Pelunasan 20 atas SPJB No  048MMALCBUCPOXII2020 is a maintenance and repair service for palm oil processing equipment.,1
+product,Primary,1.0,Pelunasan CPO 10 atas SPJB No  085MMALCBUCPOX2021 is a product of palm oil fruit.,10
+service,Transport service,0.8,The text mentions 'Penjualan CPO Sesuai NoKontrak' which indicates the sale of palm oil products according to a contract.,500
+product,Primary,1.0,Uang Muka CPO 90 atas SPJB No  046MMALCBUCPOV2021 is a product of palm oil fruit.,1
+product,Primary,1.0,Uang Muka CPO 90 atas SPJB No  069MMALCBUCPOVIII2021 is a product of primary category as it is a part of the oil palm fruit such as palm kernel,90
+product,Primary,1.0,Uang Muka Crude Palm Oil CPO Kontrak No 0054SMKTNGCPOII2021 is a product of palm oil fruit.,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,1.0,ONGKOS ANGKUTAN LAUT KM SUMBER REJEKI provides transportation services for palm oil from Ketapang to Lampung,88
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,Angkutan CPO refers to the transportation of crude palm oil.,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Pelunasan palm kernel is a primary product of oil palm fruit.,100
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,JASA ANGKUT CPO DARI PABRIK MEGANUSA INTISAWIT KE BULKING RENGAT is a transportation service for palm oil from the factory Meganusa Intisawit to the bulk storage location.,1
+product,Primary,1.0,ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSMUARA KANDIS MILL KE BULKING BOOM BARU DO  2850CPO285021C046,2850
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSBUMI SAWIT PERMAI KE BULKING BOOM BARU DO  2750CPO275021C043,2750
+product,Primary,1.0,Palm kernel oil is a product derived from the oil palm fruit and falls under the category of primary products.,0
+product,Primary,1.0,Palm kernel oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Pelunasan 20 Crude Palm Oil Kontrak No PAJTNCPO005I2021 is a product of palm oil.,9100071922
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider for oil palm fruit,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider,1
+service,Transport service,0.8,Ongkos Angkut is a transportation service provider for oil palm fruit,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Maintenance/Repair Service,0.8,"The text mentions 'TBS PERIODE 15 OKTOBER 2021', which indicates that the product is related to maintenance or repair services.",1
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,0.8,TBS PERIODE 22 DESEMBER 2021 is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Tuslaag CPO is a type of palm oil product.,0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSBUMI SAWIT PERMAI KE BULKING BOOM BARU DO  2750CPO275021C007,2750
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+service,Transport service,1.0,JASA ANGKUT CPO DARI PABRIK MEGANUSA INTISAWIT KE BULKING RENGAT is a transportation service for palm oil from the factory Meganusa Intisawit to the bulk storage location.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,JASA ANGKUT CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Pelunasan CPO 10 atas SPJB No  078MMALCBUCPOIX2021 is a product of palm oil fruit.,10
+product,Primary,1.0,Uang Muka CPO 90 atas SPJB No  074MMALCBUCPOVIII2021 is a product of palm oil fruit.,90
+product,Primary,1.0,Uang Muka CPO 90 atas SPJB No  076MMALCBUCPOIX2021 is a product of palm oil fruit.,90
+service,Transport service,1.0,JASA ANGKUT CPO DARI PABRIK MEGANUSA INTISAWIT KE BULKING RENGAT is a transportation service for palm oil from the factory Meganusa Intisawit to the bulk storage location,1
+service,Transport service,1.0,JASA ANGKUT CPO DARI PABRIK MEGANUSA INTISAWIT KE BULKING RENGAT is a transportation service for palm oil from the factory Meganusa Intisawit to the bulk storage location,1
+service,Transport service,1.0,Angkutan CPO dari Pulang Pisau tujuan Kumai dilakukan melalui jasa escort TK Senggora Crystal,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSPANGKALAN PANJI  MILL KE BULKING BOOM BARU DO  2450CPO245021C019 is a transportation service for palm oil products,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Freight is a service that involves transporting goods from one location to another.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider for oil palm fruit,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,0.8,TBS PERIODE 21 DESEMBER 2021 is a transportation service for palm oil products.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider for oil palm fruit.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+service,Transport service,1.0,Freight angkutan CPO dari sangkulirang tujuan tarjun menggunakan TB MITRA KENCANA IV TK Sumber Kencana VI,78170
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,JASA ANGKUT CPO DARI PABRIK MEGANUSA INTISAWIT KE BULKING RENGAT is a transportation service for palm oil from the factory Meganusa Intisawit to the bulk storage location,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+product,Primary,1.0,Oil palm fruit,1
+product,Primary,1.0,Tuslaag is a palm oil fruit.,1451
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,Ongkos angkut cpo is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Pelunasan 50 angkutan CPO dari Talang Duku Jambi ke Belawan via TB Jangilus LautTK SM Masterpiece 318 sebanyak  ,50
+service,Transport service,0.8,"The text refers to the cost of transporting crude palm oil (CPO), indicating that it is a service related to the processing and transportation of palm oil.",1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Maintenance/Repair Service,0.8,TBS PERIODE 10 is a maintenance and repair service for oil palm trees.,10
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,FFA Premium is a product of palm oil fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,100
+service,Transport service,1.0,Jasa Angkut CPO No Kontrak is a transport service for palm oil products,21
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,ONGKOS ANGKUTAN LAUT KM ANUGRAH SAMUDRA I MUAT INTI SAWIT DARI PALARANSAMARINDA KE LAMPUNG,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider.,1
+service,Transport service,0.8,"The text refers to the cost of transporting crude palm oil (CPO), indicating that it is a service related to the processing and transportation of palm oil.",1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Maintenance/Repair Service,0.8,"Based on the text, it is likely that the service provided is related to the maintenance or repair of palm products.",1
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a service provider for palm oil processing.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Maintenance/Repair Service,0.8,Tuslaag TBS Div 3 is a maintenance and repair service for oil palm processing machines.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a service provider for palm oil processing.,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,1.0,JASA ANGKUT CPO DARI PABRIK MEGANUSA INTISAWIT KE BULKING RENGAT is a transportation service for palm oil from the factory Meganusa Intisawit to the bulk storage location.,1
+service,Maintenance/Repair Service,0.8,TBS PERIODE 0809 FEBRUARI 2021 is related to maintenance and repair services for palm oil processing equipment.,1
+service,Transport Service,1.0,Ongkos Angkut is a transport service provider for oil palm fruit.,0
+product,Primary,1.0,Ongkos Angkut CPO DO Nomor  1451CPO145121T018 is a palm oil fruit.,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a product derived from the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,5000.0
+product,Primary,1.0,ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSMUARA KANDIS MILL KE BULKING BOOM BARU DO  2850CPO285020C094,2850
+service,Maintenance/Repair Service,0.8,Tuslaag TBS Div 3 is a maintenance and repair service for oil palm processing equipment.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Transport service,0.8,Ongkos Angkut CPO is a transportation service for oil palm fruit.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider for oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSMUARA KANDIS MILL KE BULKING BOOM BARU DO  2850CPO285020C095,2850
+product,Primary,1.0,CPO Minyak Sawit is a type of palm oil that is derived from the fruit of the oil palm tree.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,The text refers to the payment of a service contract for maintenance and repair of oil palm trees.,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,RBD Palm Kernel Stearine MB is a product made from palm kernel oil.,100
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Tuslaag CPO is a type of palm oil product.,0
+service,Transport service,1.0,JASA ANGKUT CPO DARI PABRIK MEGANUSA INTISAWIT KE BULKING RENGAT is a transportation service for palm oil from the factory Meganusa Intisawit to the bulk storage location.,1
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider for oil palm fruit.,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.85,Tuslaag TBS Div 1 is a transportation service provider.,1
+service,Transport Service,1.0,Ongkos Angkut is a transport service provider for oil palm fruit,0
+service,Transport service,1.0,ONGKOS ANGKUTAN LAUT KM SAMUDRO ENDAH MUAT INTI SAWIT DARI KENDAWANGAN KE LAMPUNG is a transport service for palm oil from Ken Dawangan to Lamung,1
+service,Transport service,0.8,Ongkos Angkut TBS Div 6 is a transportation service provider.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a service provider for palm oil processing.,1
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a service provider for palm oil processing.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,0.8,ONGKOS ANGKUT CPO DONOMOR is a transportation service for palm oil products.,1451
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,0
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Maintenance/Repair Service,0.8,Tuslaag TBS Div 3 is a maintenance and repair service provider for oil palm processing machines.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Maintenance/Repair Service,0.8,"Based on the text, it is a service related to the maintenance and repair of palm products.",1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,100
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider for oil palm fruit.,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Uang Muka Crude Palm Oil is a primary product of the oil palm fruit.,85
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,85
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,0
+service,Maintenance/Repair Service,0.8,"Based on the text, it seems that the product is related to maintenance and repair services for palm products.",1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Maintenance/Repair Service,0.8,TBS PERIODE 2930 MARET 2021 is a maintenance and repair service for oil palm trees.,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+product,Primary,1.0,Uang Muka CPO Atas Kontrak Jual Beli No  044SMLCBUCPOXI2021 is a product of palm oil fruit.,1
+product,Primary,1.0,Uang Muka CPO Atas Kontrak Jual Beli No008SMLCBUCPOII2021 is a palm oil product.,1
+product,Primary,1.0,Uang Muka CPO atas Kontrak Jual Beli No  041SMLCBUCPOXI2021 is a palm oil product.,1
+service,Transport service,1.0,Pengangkutan CPO dengan TB Mitra Kencana XIV dan BG Sumber Kencana XII dari Jambi ke Belawan,1
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+service,Maintenance/Repair Service,0.8,TBS JULI 2021 is a maintenance and repair service provider for oil palm processing machines and equipment.,0
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,1
+service,Transport service,0.8,Ongkos Angkut is a transportation service provider,1
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider,1
+service,Transport service,0.9,Ongkos Angkut is a transportation service provider,1
+service,Transport service,1.0,Ongkos Angkut is a transportation service provider,0
+service,Transport service,1.0,ONGKOS ANGKUTAN LAUT KM DAIEI MUAT INTI SAWIT DARI TANJUNGPANDAN KE LAMPUNG is a transportation service for palm oil from Tanjungpandan to Lampung,1
+service,Maintenance/Repair Service,0.8,The text mentions 'TBS PERIODE' which is a maintenance and repair service for oil palm fruit.,1
+service,Transport service,0.8,Ongkos Angkut is a transportation service provider for oil palm fruit,1
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Transport service,0.8,TBS PERIODE 3031 OKTOBER 2021 is a transportation service for palm oil products.,1
+service,Transport service,0.8,ONGKOS ANGKUTAN LAUT KM SHINEI MUAT INTI SAWIT DARI PANGKALBALAM KE DUMAI is a transportation service for palm oil products,1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,Tuslaag TBS Div 3 is a maintenance and repair service provider for oil palm processing machines.,1
+service,Maintenance/Repair Service,0.8,"The text mentions 'November 2021', which suggests that the service is related to maintenance or repair of equipment or facilities in November 2021.",1
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm kernel oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of oil palm plantations.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil (CPO) is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Maintenance/Repair Service,0.8,"The text refers to the maintenance and repair of palm oil processing machines and equipment, which falls under the category of maintenance service.",1
+product,Primary,1.0,Palm kernel expeller is a primary product of oil palm fruit.,0
+service,Maintenance/Repair Service,0.9,The text refers to the payment of a service contract for maintenance and repair of palm oil processing equipment.,1
+product,Primary,1.0,Uang Muka CPO Atas Kontrak Jual Beli No  029SMLCBUCPOVIII2021 is a product of palm oil fruit.,1
+service,Transport service,1.0,"Biaya pengangkutan CPO dengan TB Sungai Raya refers to the cost of transporting crude palm oil (CPO) using TB Sungai Raya, which is a transportation service provider.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,RBD Palm Kernel Stearine MB is a product made from palm kernel oil,500
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for oil palm fruit,1
+product,Primary,1.0,Tuslaag No Kontrak is a product of palm oil fruit.,1451
+product,Primary,1.0,Uang muka 50 angkutan CPO dari Bumi Harjo Kumai ke Tarahan Lampung via TB Zungaro Laut  TK SM Majesty 218 sebanyak ...,50
+product,Primary,1.0,Palm kernel is a part of the oil palm fruit and is directly used for processing palm oil.,0
+product,Primary,1.0,Palm kernel is a part of the oil palm fruit and is directly used for processing palm oil.,0
+product,Primary,1.0,Crude palm oil (CPO) is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Palm kernel is a part of the oil palm fruit and is used for various purposes such as animal feed, biofuel, and industrial applications.",0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm oil fruit is a primary product of the oil palm tree.,0
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Palm oil fruit is a primary product.,0
+product,Primary,1.0,Palm oil fruit is a primary product,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,5000.0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude Palm Oil is a product derived from the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Angkutan CPO dari Ketapang ke Lampung via TK Daya Utama,3
+service,Transport service,1.0,"Biaya pengangkutan CPO dengan TB Pulau Gelang refers to the cost of transporting crude palm oil (CPO) using TB Pulau Gelang from Jambi to Lubuk Gaung, which is a service provided by the company.",0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Ongkos Angkut CPO is a transportation service for palm oil products.,1
+product,Primary,1.0,RBD Palm Oleine is a product made from the oil of palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,"Uang muka refers to the transportation cost of palm oil from Talang Duku Jambi to Belawan via TB Arapaima Laut, which is a primary component of the palm oil processing process.",50
+service,Transport service,1.0,Freight angkutan CPO dari Pangkal Balam ke Lampung Ex TB Mitra 210 TK Sejahtera D28 is a transportation service for palm oil products,1
+product,Primary,1.0,Palm kernel is a primary product of oil palm fruit.,0
+service,Transport service,0.8,Pembayaran 100 Freight CPO dari Palembang ke Lampung via TK SKU II dan TB Global Mandiri XI is a transportation service for the palm oil products.,1
+service,Transport service,0.8,Freight angkutan CPO dari Palembang ke Lampung is a transportation service for palm oil products.,1
+product,Primary,1.0,Crude palm oil is a product derived from the fruit of the oil palm tree.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,0
+service,Transport service,1.0,Pembayaran 100 Freight CPO dari Pangkal Balam ke Lampung via TK SKU II dan TB Global Mandiri XI is a transportation service for the palm oil products,100
+product,Primary,1.0,Tuslaag CPO is a type of palm oil product.,0
+service,Transport service,1.0,Angkutan CPO dari Talang Duku Jambi ke Tarahan Lampung via TB Bintang Laut TK SM Mandiri 104 sebanyak 50,50
+product,Primary,1.0,Pelunasan 50 angkutan CPO dari Bumi Harjo Kumai ke Tarahan Lampung via TB Jangilus Laut is a product of palm oil fruit.,50
+service,Transport service,0.8,Pembayaran untuk jasa angkutan CPO dari Bagendang ke Lampung via TBDuta Kapuas 19 dan Kapuas 265,100
+service,Transport service,1.0,Angkutan CPO dari Tanjung Batu Belitung ke Tarahan Lampung via TB Patin Laut TK SM Indragiri 338 sebanyak 50,50
+service,Transport service,0.9,Pembayaran untuk jasa angkutan CPO dari Bumiharjo ke Lampung via TBDuta Kapuas 18 dan Kapuas 276,100
+service,Transport service,1.0,Biaya Pengangkutan CPO dengan TB Pulau Gelang Tkg Alfa Kharisma dari DPA Dumai ke Kabil Batam is a transportation service for palm oil products,1
+product,Primary,1.0,Pelunasan 50 angkutan CPO dari Tanjung Batu Belitung ke Tarahan Lampung via TB Arapaima Laut TK SM Independence 204 sebanyak  ,50
+product,Primary,1.0,Palm kernel is a primary part of the oil palm fruit.,0
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+service,Transport service,1.0,Angkutan CPO dari Bumi Harjo Kumai ke Tarahan Lampung via TB Patin Laut TK SM Indragiri 338 sebanyak 50,50
+product,Primary,1.0,"Uang muka refers to the transportation cost of palm oil from Bumi Harjo Kumai to Tarahan Lampung via TB Patin Laut TK SM Indragiri 338, which is a primary part of the oil palm fruit.",50
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100
+product,Primary,1.0,Crude Palm Oil is a primary product of the oil palm fruit.,0
+product,Primary,1.0,Uang muka 50 angkutan CPO dari Bumi Harjo Kumai ke Tarahan Lampung via TB Zungaro Laut  TK SM Majesty 218 sebanyak  ,50
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0
+service,Transport service,0.8,"The text mentions 'Tangki Timbun CPO', which is a transportation service for palm oil products.",1
+service,Transport service,1.0,Angkutan CPO dari Talang Duku Jambi ke Lubuk Gaung Dumai via TB Arapaima Laut TK SM Independence 204 sebanyak 50,50
+product,Primary,1.0,Crude palm oil is a primary product of the oil palm fruit.,100.0

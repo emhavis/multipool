@@ -1,0 +1,9 @@
+Error decoding JSON for index 96 with data 'CRUDE PALM OIL FFA  5 max MI  05 max': Expecting value: line 1 column 1 (char 0)
+Original text: Sure! Here's the classification of the given text based on the criteria you provided:
+
+{
+"type": "product",
+"confidenceLevel": 1.0,
+"explanation": "Crude palm oil is a tangible good derived from palm oil.",
+"quantity": 0
+}

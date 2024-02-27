@@ -1,0 +1,97 @@
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "The text refers to a sample analysis of palm stearin, which is a product derived from the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit and is classified as a primary material.", "Quantity": 1}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "The text refers to an inspection of palm oil and its derivatives, indicating that it is related to the production or processing of palm oil.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Palm kernel", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "The text refers to the discharge of crude palm oil (CPO) at a port in Batam, Indonesia on a specific date. Therefore, it is classified as a primary product related to palm oil.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Kalibrassi sounding tape is a product used in the processing of palm oil.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "The text refers to the loading of crude palm kernel oil (CPKO) and crude palm oil (CPO) at Dumai, indicating that these products are being processed or transported.", "Quantity": 1999887.0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "The text refers to the loading of crude palm oil (CPO) at a terminal in Tayan, which is a part of the palm oil processing process.", "Quantity": 30000}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Manufacturer of palm oil washing machine for CPO refining", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Pengiriman Kecambah Sawit refers to the transportation of palm oil products from one location to another, which is a crucial step in the processing and distribution of palm oil.", "Quantity": 1000}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product that is directly related to the processing of palm oil.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Supplementary", "ConfidenceLevel": 0.8, "Explanation": "The text refers to a road grader machine used for palm oil production, indicating that it is a part of the palm oil processing equipment.", "Quantity": 1}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Palm kernel", "Quantity": 1081230}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Palm kernel", "Quantity": 1190024}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Palm kernel", "Quantity": 4907412}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Oil palm fruit", "Quantity": 5276210}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Palm kernel", "Quantity": 5701628}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Palm kernel", "Quantity": 12217767}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Palm kernel", "Quantity": 13269963}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.85, "Explanation": "Oil palm fruit", "Quantity": 13269963}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Palm kernel", "Quantity": 13609592}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Oil palm fruit", "Quantity": 7184896}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Oil palm fruit", "Quantity": 7637226}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Palm kernel", "Quantity": 8628950}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel", "Quantity": 8861121}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel", "Quantity": 1458681}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Palm kernel", "Quantity": 1700094}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Palm kernel", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Oil palm fruit", "Quantity": 2367230}
+{"TypeLvl1": "Product", "TypeLvl2": {"Primary": true, "ConfidenceLevel": 0.95, "Explanation": "Pabrik Kelapa Sawit (PKS) is a palm oil mill that designs and builds gas holders for the industry."}, "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Uang Muka II Crude Palm Oil (CPO) is a product that is part of the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Painting product for oil palm hardtop", "Quantity": 18}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Oil palm fruit and its derivatives", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.9, "Explanation": "Palm kernel", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Minyak Kelapa Sawit CPO is a product that is part of the oil palm fruit, specifically the kernel.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Supplementary", "ConfidenceLevel": 0.8, "Explanation": "The text refers to a grading service for oil palm fruit, which is a part of the processing of palm oil. Therefore, it falls under TypeLvl1 as a Product.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "VITAMIN A PALMITATE is a product derived from the oil palm fruit.", "Quantity": 17}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Supplementary", "ConfidenceLevel": 0.8, "Explanation": "Palm kernel is a product that is part of the oil palm fruit and is used in various industries such as food, cosmetics, and biofuels.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "CPO Crude Palm Oil Kontrak No082XXXXXX20XX refers to the primary product of oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Palm oil is a type of edible oil that is derived from the fruit of the oil palm tree. It is used in cooking, cosmetics, and other products.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Penjualan Crude Palm Oil refers to the sale of crude palm oil, which is a product derived from the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Lubang tanam Mekanis Sawit Div6 is a palm oil plantation, therefore it falls under the category of a 'Product'", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Crude palm oil is a product derived from the fruit of the oil palm tree.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit and is used as an ingredient in various applications such as food, cosmetics, and feed.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Pelunasan freight inti sawit refers to the transportation of palm oil products, which falls under the category of primary products. ", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit and is used as an ingredient in various applications such as food, feed, and biofuels.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Pelunasan freight refers to the transportation of palm oil products from one location to another, which is a crucial part of the palm oil industry. As such, it can be classified as a primary product related to palm oil.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Pelunasan freight inti sawit curah KendawanganLampung refers to the transportation of palm oil products from Kendawangan Lampung, which is a primary activity related to the production and distribution of palm oil.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Palm kernel is a product derived from the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Pembayaran I freight inti sawit curah KendawanganLampung refers to the payment of freight for the transportation of palm oil products.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Crude palm oil is a product derived from the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Ongkos angkut CPO refers to the transportation of crude palm oil (CPO) from the plantations to the mills or processing facilities.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Palm kernel is a product derived from the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product that is part of the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Crude Palm Oil (CPO) is a product derived from the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit and is used as an ingredient in various applications such as food, cosmetics, and animal feed.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.9, "Explanation": "Pembayaran Uang Muka CPO Crude Palm Oil Kontrak No052XXX CC PO XX20XX refers to the payment of advance money for the purchase of crude palm oil under Contract No052XXX.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit and is used as an input for various industries such as food, cosmetics, and biofuels.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Palm kernel is a product derived from the oil palm fruit and is used as an ingredient in various applications such as food, feed, and biofuel.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Crude palm oil is a product derived from the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel kontrak is a product that directly contributes to the processing of palm oil.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Crude palm oil is a product derived from the fruit of the oil palm tree.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Pembayaran uang muka PKPalm Kernel NoKontrak 077XXXXXX20XX refers to the payment of palm kernel fees for a contract.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Penjualan crude palm oil refers to the sale of raw palm oil directly from the plantation or mill to the buyer.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Pembayaran Uang Muka PKPalm Kernel NoKontrak 064XXCPKXX20XX refers to the payment of palm kernel processing fees for a contractual agreement.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Ongkos Angkut is a company that specializes in the transportation of oil palm products, including palm kernel and shell. Therefore, it can be classified as a primary product related to palm oil.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Palm oil fruit batch", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Palm kernel and other parts of the oil palm fruit", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Crude Palm Oil Kontrak No117 is a product that falls under the category of palm oil.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.9, "Explanation": "Penjualan CPO refers to the sale of crude palm oil, which is a primary product derived from the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Crude palm oil is a product derived from the fruit of the oil palm tree.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Penjualan crude palm oil refers to the sale of raw palm oil directly from the plantation or mill to the buyer without any processing.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Crude Palm Oil (CPO) is a primary product derived from the oil palm fruit.", "Quantity": 4910}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit.", "Quantity": 4964}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Crude Palm Oil is a product derived from the oil palm fruit and is used in various industries such as food, cosmetics, and biofuels.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Penjualan palm kernel refers to the sale of palm kernel products, which are derived from the oil palm fruit.", "Quantity": 100}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Palm kernel is a product derived from the oil palm fruit.", "Quantity": 5000}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Crude palm oil is a product derived from the fruit of the oil palm tree.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Palm kernel is a product derived from the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Penjualan palm kernel refers to the sale of palm kernel products, such as palm kernel oil, palm kernel cake, and other derivatives.", "Quantity": 100}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Crude Palm Oil (CPO) is a type of edible oil derived from the fruit of the oil palm tree.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Minyak Sawit is a palm oil product.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Penjualan 5690 KG CPO means the sale of 5690 kilograms of crude palm oil.", "Quantity": 5690}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Palm kernel and other palm oil related products", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Ongkos Angkut TBS DIV 4 is a company that provides transportation services for palm oil products.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Crude palm oil is a product derived from the fruit of the oil palm tree.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Crude palm oil is a product derived from the fruit of the oil palm tree.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 1.0, "Explanation": "Penjualan (sale) of 7100 kg of crude palm oil (CPO)", "Quantity": 7100}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.8, "Explanation": "Palm kernel is a primary product of the oil palm fruit.", "Quantity": 0}
+{"TypeLvl1": "Product", "TypeLvl2": "Primary", "ConfidenceLevel": 0.95, "Explanation": "Palm kernel is a product derived from the oil palm fruit.", "Quantity": 0}

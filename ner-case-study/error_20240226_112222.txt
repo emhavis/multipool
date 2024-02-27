@@ -1,0 +1,20 @@
+Error decoding JSON for index 52 with data 'Pelunasan freight inti sawit in basg PangkalBalamLampung': Expecting ':' delimiter: line 5 column 1 (char 68)
+Original text: {
+"TypeLvl1": "Service",
+"TypeLvl2": {
+"Maintenance/Repair Service"
+},
+"ConfidenceLevel": 0.85,
+"Explanation": "The text refers to the transportation of palm oil products, which is a service.",
+"Quantity": 0
+}
+Error decoding JSON for index 55 with data 'Pelunasan freight inti sawit curah KendawanganLampung': Expecting ':' delimiter: line 5 column 1 (char 68)
+Original text: {
+"TypeLvl1": "Service",
+"TypeLvl2": {
+"Maintenance/Repair Service"
+},
+"ConfidenceLevel": 0.85,
+"Explanation": "Classification based on the text: Pelunasan freight inti sawit curah KendawanganLampung. This is a service related to the transportation of palm oil products.",
+"Quantity": 0
+}

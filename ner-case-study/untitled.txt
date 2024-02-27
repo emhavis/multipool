@@ -1,0 +1,48 @@
+
+Please make classification for the column BARANG in this data                         NamaBarang  JumlahBarang
+0  ANALISA SAMPEL RBD PALM STEARIN           1.0 based on the following criteria:
+- type represents the type of classification ('Service' or 'Product').
+- If the product contains a verb, an action or assisstance, classify it as 'service'.
+- If the product is raw material or processed from palm oil, classify it as 'product'.
+- Consider                                           NAMA_BARANG  JML_BARANG    JENIS
+0                     ANALISA SAMPEL RBD PALM STEARIN         1.0  service
+1   Analisa  Pengujian INSPEKSI MINYAK KELAPA SAWI...         1.0  service
+2   Discarging Survey of CPO 2999998 MT at Kabil B...         1.0  service
+3   Discarging Survey of CPO 3149193 MT at Kabil B...         1.0  service
+4                         KALIBRASI SOUNDING TAPE CPO         1.0  service
+..                                                ...         ...      ...
+93  Pelunasan 50 angkutan CPO dari Talang Duku Jam...   4200303.0  service
+94  Pelunasan 50 angkutan CPO dari Bumi Harjo Kuma...   4500641.0  service
+95  Pembayaran 100 Jasa Angkutan CPO dari Bagendan...   4500865.0  service
+96  Pelunasan 50 angkutan CPO dari Tanjung Batu Be...   4502618.0  service
+97  TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199...         1.0  product
+
+[98 rows x 3 columns] as the train data.
+- product_name represents the BARANG column in                         NamaBarang  JumlahBarang
+0  ANALISA SAMPEL RBD PALM STEARIN           1.0.
+- amount_of_product represents the JML_BARANG column in                         NamaBarang  JumlahBarang
+0  ANALISA SAMPEL RBD PALM STEARIN           1.0.
+- confidence_level represents the confidence level of the classification.
+- explanation provides additional information about the classification.
+- please remember that we only do all of those prompt above based on the data under the "NAMA_BARANG"
+- Only return the JSON formatted answer and NOTHING else.
+example JSON format:
+    {
+        "productName":"Analisa  Pengujian INSPEKSI MINYAK KELAPA SAWIT DAN PRODUK TURUNANNYA dan Analisa  Pengujian 1 Sa",
+        "type":"Service",
+        "confidenceLevel":0.9,
+        "explanation":"This is....",
+    },
+    {
+        "productName":"TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1999 1700094 KG",
+        "type":"Product",
+        "confidenceLevel":0.9,
+        "explanation":"This is a product of Fresh Fruit Oil Palm....",
+    },
+    {
+        "productName": "BLANKO SOUNDING PALM KERNEL",
+        "type": "Service",
+        "confidenceLevel": 0.9,
+        "explanation": "This is a sounding service for palm kernel."
+    }
+    

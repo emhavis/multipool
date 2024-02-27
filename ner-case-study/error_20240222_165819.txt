@@ -1,0 +1,165 @@
+Error decoding JSON for index 12 with data 'SEWA ALAT BERAT ROAD GRADDER LOKASI KERJA  DIV 12345 AKSES CPO DENGAN HASIL PEKERJAAN 25200  HM X RP 375000': Expecting ',' delimiter: line 5 column 14 (char 277)
+Original text:  {
+"type": "service",
+"confidenceLevel": 0.95,
+"explanation": "The text describes a service involving the rental of a road grader (a type of heavy equipment) for a CPO (Crude Palm Oil) project located at DIV 12345. The amount paid for this service is RP 375000.",
+"quantity": 0
+Error decoding JSON for index 65 with data 'Pembayaran Uang Muka CPOCrude Palm Oil Kontrak No052XXXCCPOXX20XX': Expecting ',' delimiter: line 5 column 14 (char 233)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "The text contains the abbreviation 'CPO', which stands for Crude Palm Oil, a raw material derived from palm oil. Therefore, it is classified as a product.",
+"quantity": 0
+Error decoding JSON for index 69 with data 'PK Palm Kernel Kontrak 022PKIMTLILXI2021': Expecting ',' delimiter: line 5 column 14 (char 199)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "The text contains a palmarse code 'PK Palm Kernel' and a contract number, indicating it refers to a palm kernel product.",
+"quantity": 022
+}
+Error decoding JSON for index 251 with data 'PALM KERNEL PK': Expecting ',' delimiter: line 5 column 18 (char 166)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "The text 'PALM KERNEL PK' refers to a product that is the raw kernel of palm fruit.",
+"quantity": "PK" // PK represents package or piece, but without further context, it's impossible to determine an exact quantity.
+Error decoding JSON for index 393 with data 'UANG MUKA CRUDE PALM OIL': Expecting ',' delimiter: line 5 column 25 (char 176)
+Original text:  {
+"type": "product",
+"confidenceLevel": 1.00,
+"explanation": "The text refers to 'Crude Palm Oil' which is a tangible product derived from palm oil.",
+"quantity": "UANG MUKA" // Assuming 'UANG MUKA' represents the quantity but without further context it is impossible to determine an exact numerical value.
+Error decoding JSON for index 397 with data 'CPOCrude Palm Oil NoKontrak 016PMCCPOI2021': Expecting ',' delimiter: line 5 column 14 (char 229)
+Original text:  {
+"type": "product",
+"confidenceLevel": 1.00,
+"explanation": "The text 'CPO' stands for Crude Palm Oil, which is a raw material derived from palm oil. No further activities or offerings are mentioned in the text.",
+"quantity": 016
+}
+Error decoding JSON for index 408 with data 'Crude Palm Oil DP 98 Surat Perjanjian JualBeli No0377POMKPRCPOIX2021 Tanggal 28 September 2021 PO No 9100080901': Expecting ',' delimiter: line 5 column 19 (char 220)
+Original text:  {
+"type": "product",
+"confidenceLevel": 1.00,
+"explanation": "The text refers to the sale of a specific quantity of Crude Palm Oil with the given DP (delivery point) and PO (purchase order) numbers.",
+"quantity": "N/A" // The text does not provide a clear quantity in the format expected by this criterion. If there was more context, you could potentially extract the quantity from it (e.g., "500 metric tons of Crude Palm Oil"). However, the given text only contains the DP and PO numbers without any mention or indication of the actual quantity being sold.
+Error decoding JSON for index 426 with data 'CPOCrude Palm Oil NoKontrak 034PMCCPOII2021': Expecting ',' delimiter: line 5 column 14 (char 247)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "The text 'CPO' stands for Crude Palm Oil, which is a raw material derived from palm oil. The following characters 'CPOCrude' provide more information about the product.",
+"quantity": 034
+}
+Error decoding JSON for index 447 with data 'PKPalm Kernel NoKontrak 059PMCPKIV2021': Expecting ',' delimiter: line 5 column 14 (char 233)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "The text 'PKPalm' and 'Palm Kernel' indicate that the product is related to palm oil, making it a tangible good. Therefore, it is classified as a product.",
+"quantity": 059
+}
+Error decoding JSON for index 453 with data 'CPO Crude Palm Oil Kontrak 037CPOIMTLILIX2021': Expecting ',' delimiter: line 5 column 14 (char 212)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "The text 'CPO' stands for Crude Palm Oil which is a raw material derived from palm oil. Therefore, it can be classified as a product.",
+"quantity": 037
+}
+Error decoding JSON for index 481 with data 'Panjar Penjualan CPO 044CPOPNNIIMTV2021': Expecting ',' delimiter: line 5 column 14 (char 253)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "The text 'Panjar Penjualan CPO' can be translated to 'Palm Oil Sale Offer'. The text 'CPO' stands for Crude Palm Oil which is a raw material or product derived from palm oil.",
+"quantity": 044
+}
+Error decoding JSON for index 521 with data 'PALM KERNEL PK': Expecting ',' delimiter: line 5 column 18 (char 217)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "The text 'PALM KERNEL PK' refers to a product, specifically the palm kernel, which is a raw material derived from palm oil production.",
+"quantity": "PK" // The abbreviation "PK" represents the quantity 'piece' or 'pieces', depending on the context. However, it is not explicitly stated how many pieces are being referred to in this text.
+Error decoding JSON for index 577 with data 'PALM KERNEL PK': Expecting ',' delimiter: line 5 column 18 (char 155)
+Original text:  {
+"type": "product",
+"confidenceLevel": 1.00,
+"explanation": "The text 'PALM KERNEL PK' refers to a product, specifically palm kernel.",
+"quantity": "PK" // The abbreviation 'PK' could represent 'piece', 'packet', or 'pound' depending on the context. Without further information, it is impossible to determine the exact quantity.
+Error decoding JSON for index 578 with data 'PALM KERNEL PK': Expecting ',' delimiter: line 5 column 17 (char 253)
+Original text:  {
+  "type": "product",
+  "confidenceLevel": 1.00,
+  "explanation": "The text 'PALM KERNEL PK' refers to a product, specifically the palm kernel in its pure form. No services or activities related to palm oil production are mentioned.",
+  "quantity": 1 // assuming 'PK' stands for piece or pieces, so the quantity is 1
+}
+Error decoding JSON for index 619 with data 'Ongkos angkut CPO': Expecting ',' delimiter: line 5 column 22 (char 232)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "The term 'CPO' refers to Crude Palm Oil, which is a raw material derived from palm oil. Therefore, this text represents a product classification.",
+"quantity": "Ongkos" // The Indonesian word for 'cost'
+}
+Error decoding JSON for index 639 with data 'Crude Palm Oil Pelunasan Surat Perjanjian JualBeli No0350POMKPRCPOIX2021 Tanggal 07 September 2021 PO No 9100080115': Expecting ',' delimiter: line 5 column 19 (char 176)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "The text refers to a specific quantity of 'Crude Palm Oil' which is classified as a product.",
+"quantity": "N/A" // Could not find a specific quantity mentioned in the text. However, it does contain the reference number 'PO No 9100080115', which suggests that this might be related to a purchase order for a certain quantity of Crude Palm Oil.
+Error decoding JSON for index 705 with data 'PALM KERNEL PK': Expecting ',' delimiter: line 5 column 17 (char 205)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "The text refers to a specific type of palm oil product, 'Palm Kernel', which is a tangible good derived from the palm tree.",
+"quantity": 1.0 # Assuming PK stands for kilograms or pounds in this context, thus the quantity is 1.0. Please confirm the unit of measurement if it's different.
+Error decoding JSON for index 713 with data 'PENJUALAN CPO 085CPOKSPSIPVII2021': Expecting ',' delimiter: line 5 column 14 (char 178)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "This text represents a palm olein (CPO) sales code with no clear indication of associated services.",
+"quantity": 085
+}
+Error decoding JSON for index 757 with data 'CPO Crude Palm Oil Kontrak 038CPOIMTLILX2021': Expecting ',' delimiter: line 5 column 14 (char 271)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "This text refers to a specific type of palm oil product called Crude Palm Oil (CPO), and the abbreviation 'Kontrak' suggests that this is a contract for the sale or purchase of this commodity.",
+"quantity": 038
+}
+Error decoding JSON for index 799 with data 'Panjar Penjualan CPO 063CPOPNNITNVIII2021': Expecting ',' delimiter: line 5 column 14 (char 305)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "The text contains a palmoil code (CPO) and does not contain any verbs or activities related to the production, distribution, marketing or utilization of palm oil and its derivatives. Therefore, it is classified as a 'product'.",
+"quantity": 063
+}
+Error decoding JSON for index 831 with data 'Ongkos angkut CPO': Expecting property name enclosed in double quotes: line 5 column 23 (char 244)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "The term 'CPO' in the text refers to Crude Palm Oil, which is a raw material derived from palm oil. Therefore, the text represents a product classification.",
+"quantity": "Ongkos", // The Indonesian word for 'cost' in this context does not provide any specific quantity information.
+Error decoding JSON for index 898 with data 'CRUDE PALM OIL': Expecting ',' delimiter: line 5 column 15 (char 143)
+Original text:  {
+"type": "product",
+"confidenceLevel": 1.00,
+"explanation": "The text refers to a specific type of palm oil in its raw form.",
+"quantity": 1 // Assuming one unit is meant unless the text specifies otherwise.
+}
+Error decoding JSON for index 1097 with data 'Ongkos Angkut TBS DIV 1': Expecting ',' delimiter: line 5 column 39 (char 301)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "The text does not contain any verbs or activities related to the production, distribution, marketing, or utilization of palm oil and its derivatives. It only mentions a cost for 'Angkut TBS DIV 1'.",
+"quantity": "Ongkos Angkut TBS DIV 1" // The quantity is mentioned in the text.
+}
+Error decoding JSON for index 1184 with data 'ONGKOS ANGKUT CPO CRUDE PALM OIL DARI PKSMUARA KANDIS MILL KE BULKING BOOM BARU DO  2850CPO285021C041': Expecting ',' delimiter: line 5 column 17 (char 301)
+Original text:  {
+"type": "product",
+"confidenceLevel": 0.95,
+"explanation": "The text describes the transport cost of Crude Palm Oil (CPO) from PKSMUARA KANDIS MILL to a bulking boom. This is a clear indication that the text refers to a tangible good, which falls under the category of 'product'.",
+"quantity": 2850CPO2850
+}
+Error decoding JSON for index 1487 with data 'Local Sales Crude Palm Oil Curah': Expecting ',' delimiter: line 5 column 27 (char 183)
+Original text:  {
+"type": "product",
+"confidenceLevel": 1.00,
+"explanation": "The text mentions 'Crude Palm Oil' which is a raw material typically derived from palm oil.",
+"quantity": "Local Sales" // The quantity mentioned in the text is 'Local Sales', but it does not provide any specific information about the quantity of the product itself."
+}

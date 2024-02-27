@@ -1,0 +1,35 @@
+Error decoding JSON for index 11 with data 'Residu Pesticide GMP PKE Qty  1 Sampel  Palm Kernel Expeller PKE Kode Sampel  PKE KCP DUM305 Tanggal Sampling  01 November 2021 Jasa Uji Laboratorium KJU No  XX  XX': Extra data: line 18 column 1 (char 430)
+Original text: {
+"Classification": {
+"TypeLvl1": "Product",
+"TypeLvl2": "Primary",
+"ConfidenceLevel": 0.95,
+"Explanation": "Palm kernel is a product derived from the oil palm fruit.",
+"Quantity": 0
+},
+"Classification": {
+"TypeLvl1": "Service",
+"TypeLvl2": "Maintenance/Repair Service",
+"ConfidenceLevel": 0.85,
+"Explanation": "Jasa uji laboratorium KJU provides maintenance and repair services for the palm kernel expeller.",
+"Quantity": 0
+}
+}
+
+Note: The JSON structure is based on the criteria defined in the prompt. The classification result is represented as a dictionary with the following keys:
+
+* "Classification": the main classification of the text (either "Product" or "Service")
+* "TypeLvl1": the subtype of the classification (either "Primary", "Supplementary", "Ancillary", or "Asset")
+* "ConfidenceLevel": the confidence level of the classification (a real number between 0.00 and 1.00)
+* "Explanation": additional information about the classification (one sentence without any special characters)
+* "Quantity": the quantity stated in the text (or 0 if it cannot be found)
+Error decoding JSON for index 76 with data 'BIAYA HANDLING CPO': Expecting ':' delimiter: line 5 column 1 (char 68)
+Original text: {
+"TypeLvl1": "Service",
+"TypeLvl2": {
+"Maintenance/Repair Service"
+},
+"ConfidenceLevel": 0.95,
+"Explanation": "Classification is based on the text 'BIAYA HANDLING CPO', which indicates that the service is related to handling crude palm oil (CPO).",
+"Quantity": 0
+}

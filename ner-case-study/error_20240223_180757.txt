@@ -1,0 +1,24 @@
+Error decoding JSON for index 36 with data '10 Bl Blanko Analisa Minyak Sawit Oil Loss SCPR  0010810374 ': Expecting ',' delimiter: line 6 column 1 (char 143)
+Original text: {
+"TypeLvl1": "Product",
+"TypeLvl2": "Primary",
+"ConfidenceLevel": 0.95,
+"Explanation": "Oil palm fruit such as palm kernel, palm shell, etc."
+"Quantity": 0
+}
+Error decoding JSON for index 59 with data 'CRUDE PALM OIL': Expecting ',' delimiter: line 6 column 1 (char 190)
+Original text: {
+"TypeLvl1": "Product",
+"TypeLvl2": "Primary",
+"ConfidenceLevel": 0.95,
+"Explanation": "Crude palm oil is a product derived from the oil palm fruit and is classified as a primary product."
+"Quantity": 0
+}
+Error decoding JSON for index 73 with data 'Pembayaran Uang Muka PKPalm Kernel NoKontrak 064XXCPKXX20XX': Expecting ',' delimiter: line 6 column 1 (char 272)
+Original text: {
+"TypeLvl1": "Product",
+"TypeLvl2": "Primary",
+"ConfidenceLevel": 0.95,
+"Explanation": "Pembayaran Uang Muka PKPalm Kernel NoKontrak 064XXCPKXX20XX refers to the payment of palm kernel price contract no. 064XXCPKXX20XX, which is a primary product derived from oil palm."
+"Quantity": 0
+}

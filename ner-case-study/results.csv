@@ -1,0 +1,311 @@
+0
+" [
+{
+""productName"": ""ANALISA SAMPEL RBD PALM STEARIN"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service of RBD Palm Stearin Analysis.""
+},
+{
+""productName"": ""Aflatoxin B1 Qty 1 Sampel Palm Kernel Expell"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service of Aflatoxin B1 Quantity inspection for Palm Kernel Expelled.""
+},
+{
+""productName"": ""Analisa Pengujian INSPEKSI MINYAK KELAPA SAWI"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service of Palm Oil Sawinseed Inspection and Testing.""
+},
+{
+""productName"": ""Discarging Survey of CPO 2999998 MT at Kabil B"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service of CPO Discharging Survey at Kabil B.""
+},
+{
+""productName"": ""Discarging Survey of CPO 3149193 MT at Kabil B"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service of CPO Discharging Survey at Kabil B.""
+},
+{
+""productName"": ""Kalibrasi Sounding Tape CPO"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service of CPO Sounding Tape Calibration.""
+},
+{
+""productName"": ""Loading Survey of CPO 2999998 MT at Dumai on 0"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service of CPO Loading Survey at Dumai on 0.""
+},
+{
+""productName"": ""Loading Survey of CPO 3000301 MT at Tayan on 1"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service of CPO Loading Survey at Tayan on 1.""
+},
+{
+""productName"": ""POSITIONERP520175209481 MANUFACTURERFLOWSERVE"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service of Positioner and Manufacturer Flowserve.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1999 1700094 KG"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of Fresh Fruit Oil Palm produced in the year 1999 with weight 1700094 kg.""
+}
+]"
+" [
+{
+""productName"": ""Pengiriman Kecambah Sawit"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service of sending Palm Oil Seeds.""
+},
+{
+""productName"": ""Residu Pesticide GMP PKE Qty 1 Sampel Palm K"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service of one sample of GMP certified palm pesticide residue.""
+},
+{
+""productName"": ""SEWA ALAT BERAT ROAD GRADDER LOKASI KERJA DIV"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service of hiring a road grader equipment for a job site.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of fresh fruit oil palm from the year of cultivation 199.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1991"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of fresh fruit oil palm from the year of cultivation 1991.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1992"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of fresh fruit oil palm from the year of cultivation 1992.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1993"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of fresh fruit oil palm from the year of cultivation 1993.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1994"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of fresh fruit oil palm from the year of cultivation 1994.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1995"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of fresh fruit oil palm from the year of cultivation 1995.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1996"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of fresh fruit oil palm from the year of cultivation 1996.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1997"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of fresh fruit oil palm from the year of cultivation 1997.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1998"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of fresh fruit oil palm from the year of cultivation 1998.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 1999"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of fresh fruit oil palm from the year of cultivation 1999.""
+}
+]"
+" [
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199..."",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of Fresh Fruit Oil Palm.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199..."",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of Fresh Fruit Oil Palm.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199..."",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of Fresh Fruit Oil Palm.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199..."",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of Fresh Fruit Oil Palm.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199..."",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of Fresh Fruit Oil Palm.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199..."",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of Fresh Fruit Oil Palm.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199..."",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of Fresh Fruit Oil Palm.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199..."",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of Fresh Fruit Oil Palm.""
+},
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199..."",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of Fresh Fruit Oil Palm.""
+}
+]"
+" [
+{
+""productName"": ""TANDAN BUAH SEGAR KELAPA SAWIT TAHUN TANAM 199..."",
+""type"": ""Product"",
+""confidenceLevel"": 0.95,
+""explanation"": ""This is a product of Fresh Fruit Palm Oil""
+},
+{
+""productName"": ""Termin 4 7617 Pekerjaan Design and Build Gas H..."",
+""type"": ""Service"",
+""confidenceLevel"": 0.9,
+""explanation"": ""This is a service related to termination of gas project""
+},
+{
+""productName"": ""Uang Muka II Crude Palm Oil CPO"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a raw material of Crude Palm Oil""
+},
+{
+""productName"": ""5 Bl Blanko Sounding Palm Kernel SCPR 0010662..."",
+""type"": ""Service"",
+""confidenceLevel"": 0.9,
+""explanation"": ""This is a sounding service for palm kernel with the reference number 0010662""
+},
+{
+""productName"": ""PAINTING JOTUN HARDTOP XP WARNA CPO OIL RAL 18..."",
+""type"": ""Service"",
+""confidenceLevel"": 0.95,
+""explanation"": ""This is a painting service for Crude Palm Oil using Jotun Hardtop XP and Oil RAL 18 color""
+},
+{
+""productName"": ""Master Key Gembok Truk CPO"",
+""type"": ""Product"",
+""confidenceLevel"": 0.9,
+""explanation"": ""This is a product of Master Key for Truck of Crude Palm Oil""
+},
+{
+""productName"": ""10 Bl Blanko Analisa Minyak Sawit Oil Loss SCP..."",
+""type"": ""Service"",
+""confidenceLevel"": 0.9,
+""explanation"": ""This is a service for analysis of 10 blanks of Palm Oil and its oil loss""
+},
+{
+""productName"": ""20 Bl Blanko Bast Sample Despatch CPO SCPR 0..."",
+""type"": ""Service"",
+""confidenceLevel"": 0.9,
+""explanation"": ""This is a service for the dispatch of 20 blanks of Bast Samples and Crude Palm Oil with reference number 0""
+},
+{
+""productName"": ""BLANKO SOUNDING PALM KERNEL"",
+""type"": ""Service"",
+""confidenceLevel"": 0.95,
+""explanation"": ""This is a sounding service for palm kernel""
+}
+]"
+" [
+{
+""productName"": ""Minyak Kelapa Sawit CPO"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of Crude Palm Oil.""
+},
+{
+""productName"": ""CPOCRUDE PALM OIL"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of Crude Palm Oil.""
+},
+{
+""productName"": ""100 Bl Blanko Rekap Denda Grading TBS Plasma S"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service for the grading of TBS Plasma.""
+},
+{
+""productName"": ""VITAMIN A PALMITATE 17 mIUg 0418579294 FO HS 2"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of Vitamin A Palmitate.""
+},
+{
+""productName"": ""Lebih Kirim Toleransi atas SPJB No 088XXCPOXX"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service for the tolerance of SPJB.""
+},
+{
+""productName"": ""Lebih Angkut Palm Kernel"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of Palm Kernel.""
+},
+{
+""productName"": ""CPOCrude Palm Oil Kontrak No082XXXXXX20XX"",
+""type"": ""Product"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a product of Crude Palm Oil under contract.""
+},
+{
+""productName"": ""Penjualan Crude Palm Oil"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service for the sale of Crude Palm Oil.""
+},
+{
+""productName"": ""Lubang tanam Mekanis Sawit Div6"",
+""type"": ""Service"",
+""confidenceLevel"": 1.0,
+""explanation"": ""This is a service for the mechanized planting of oil palm in Division 6.""
+}
+]"
