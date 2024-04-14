@@ -5,6 +5,32 @@ from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.util import deprecations
 from sqlalchemy.sql import text
 deprecations.SILENCE_UBER_WARNING = True
+# create database connection
+import psycopg2
+import psycopg2.extras
+from typing import Iterator, Dict, Any
+
+def insert_execute_batch(connection, ssql, df_dict) -> None:
+    
+    connection = psycopg2.connect(
+        host="98.98.117.105",
+        port='5432',
+        database="medols",
+        user="postgres",
+        password='FEWcTB3JIX5gK4T06c1MdkM9N2S8w9pb',
+    )
+
+    try:
+        connection.autocommit = True
+        with connection.cursor() as cursor:
+            psycopg2.extras.execute_batch(cursor, ssql, df_dict)
+
+    except:
+        # Rollback changes if there's an error
+        print(f"Error executing query: {e}")
+
+    finally:
+        connection.close()
 
 def execute_query_psql(query, params=None):
     # Set your PostgreSQL connection parameters
@@ -57,4 +83,7 @@ def execute_query_psql(query, params=None):
     finally:
         # Close the session
         session.close()
+
+
+
 
