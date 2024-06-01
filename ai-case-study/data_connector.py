@@ -10,7 +10,11 @@ import psycopg2
 import psycopg2.extras
 from typing import Iterator, Dict, Any
 
+<<<<<<< HEAD
 def insert_execute_batch(ssql, df_dict) -> None:
+=======
+def insert_execute_batch(connection, ssql, df_dict) -> None:
+>>>>>>> ce1d860e8f986e5a64cc79d9c113b22d7c00ddef
     
     connection = psycopg2.connect(
         host="98.98.117.105",
@@ -74,7 +78,11 @@ def execute_query_psql(query, params=None):
             # Commit the changes to the database for non-SELECT queries
             session.commit()
 
+<<<<<<< HEAD
             # print(f"Query executed successfully. {rows_affected} rows affected.")
+=======
+            print(f"Query executed successfully. {rows_affected} rows affected.")
+>>>>>>> ce1d860e8f986e5a64cc79d9c113b22d7c00ddef
             return rows_affected
     except Exception as e:
         # Rollback changes if there's an error
