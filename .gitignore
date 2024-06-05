@@ -159,3 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 tweet-grouping/data.csv
+img/
+ai-case-study/img/
+ai-case-study/video-data/
+ai-case-study/video-data/img/
