@@ -24,6 +24,6 @@ else
   echo $$ > $pid_file
 fi
 
-/home/ubuntu/ml_project/jup_env/bin/jupyter-nbconvert --ExecutePreprocessor.timeout=21600 --to notebook --execute /home/ubuntu/ml_project/notebook_directory/multipool/ai-case-study/monitoring-text-cluster-rev2.ipynb
+/home/ubuntu/ml_project/jup_env/bin/jupyter-nbconvert --ExecutePreprocessor.timeout=21600 --to notebook --execute /home/ubuntu/ml_project/notebook_directory/multipool/ai-case-study/monitoring-image-cluster.ipynb
 # clean up file after we're done
 rm $pid_file
