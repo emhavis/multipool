@@ -24,6 +24,6 @@ else
   echo $$ > $pid_file
 fi
 
-/home/ubuntu/ml_project/jup_env/bin/jupyter-nbconvert --ExecutePreprocessor.timeout=21600 --to notebook --execute /home/ubuntu/ml_project/notebook_directory/multipool/ai-case-study/google-sentiment.ipynb
+/home/ubuntu/ml_project/jup_env/bin/jupyter-nbconvert --ExecutePreprocessor.timeout=21600 --to notebook --execute /home/ubuntu/ml_project/notebook_directory/multipool/ai-case-study/parallel-hashtag-counter-monitor.ipynb
 # clean up file after we're done
 rm $pid_file
