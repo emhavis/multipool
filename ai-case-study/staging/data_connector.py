@@ -16,8 +16,8 @@ def insert_execute_batch(connection, ssql, df_dict) -> None:
         host="128.1.227.35",
         port='5432',
         database="medols",
-        user="postgres",
-        password='FEWcTB3JIX5gK4T06c1MdkM9N2S8w9pb',
+        user="ai_gpu",
+        password='42DRGnrfdnV1',
     )
 
     try:

@@ -1,7 +1,7 @@
 #!/bin/bash
   
 # create file
-pid_file="run-ai-social-media-analysis.pid"
+pid_file="stg-run-ai-social-media-analysis.pid"
 
 if [ -f $pid_file ]; then
   echo "Found existing .pid file named $pid_file. Checking."
@@ -24,6 +24,6 @@ else
   echo $$ > $pid_file
 fi
 
-/home/ubuntu/ml_project/jup_env/bin/jupyter-nbconvert --ExecutePreprocessor.timeout=21600 --to notebook --execute /home/ubuntu/ml_project/notebook_directory/multipool/ai-case-study/monitoring-social-media-analytics.ipynb
+/home/ubuntu/ml_project/jup_env/bin/jupyter-nbconvert --ExecutePreprocessor.timeout=21600 --to notebook --execute /home/ubuntu/ml_project/notebook_directory/multipool/ai-case-study/staging/stg-run-ai-social-media-analysis.ipynb
 # clean up file after we're done
 rm $pid_file

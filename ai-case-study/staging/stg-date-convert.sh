@@ -1,7 +1,7 @@
 #!/bin/bash
   
 # create file
-pid_file="stg-topic_detection.pid"
+pid_file="stg-date-convert.pid"
 
 if [ -f $pid_file ]; then
   echo "Found existing .pid file named $pid_file. Checking."
@@ -19,11 +19,11 @@ if [ -f $pid_file ]; then
     echo "PID $old_pid is still running or pgrep check errored. Exiting."
     exit
   fi
-else
+else 
   echo "Creating .pid file $pid_file"
   echo $$ > $pid_file
 fi
 
-/home/ubuntu/ml_project/jup_env/bin/jupyter-nbconvert --ExecutePreprocessor.timeout=21600 --to notebook --execute /home/ubuntu/ml_project/notebook_directory/multipool/ai-case-study/staging/stg-run-ai-topic-detection.ipynb
+/home/ubuntu/ml_project/jup_env/bin/jupyter-nbconvert --ExecutePreprocessor.timeout=21600 --to notebook --execute /home/ubuntu/ml_project/notebook_directory/multipool/ai-case-study/staging/stg-date-convert.ipynb
 # clean up file after we're done
 rm $pid_file

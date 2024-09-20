@@ -1,7 +1,7 @@
 #!/bin/bash
   
 # create file
-pid_file="process.pid"
+pid_file="stg-run-hashtag-counter-monitor.pid"
 
 if [ -f $pid_file ]; then
   echo "Found existing .pid file named $pid_file. Checking."
@@ -24,6 +24,6 @@ else
   echo $$ > $pid_file
 fi
 
-/home/ubuntu/ml_project/jup_env/bin/jupyter-nbconvert --ExecutePreprocessor.timeout=21600 --to notebook --execute /home/ubuntu/ml_project/notebook_directory/multipool/ai-case-study/parallel-hashtag-counter-monitor.ipynb
+/home/ubuntu/ml_project/jup_env/bin/jupyter-nbconvert --ExecutePreprocessor.timeout=21600 --to notebook --execute /home/ubuntu/ml_project/notebook_directory/multipool/ai-case-study/staging/stg-hashtag-counter-monitor.ipynb
 # clean up file after we're done
 rm $pid_file
